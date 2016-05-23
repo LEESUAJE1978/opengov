@@ -53,7 +53,7 @@
  
  
 ### 분야별 항목설명 (별도 표시 없는 경우 NOT NULL항목)
- * **정보목록**
+ * **결재문서**
   * package_id      : 문서관리번호(PK)
   * doc_prdctn_dt   : 자료생산일자
   * trck_card_nm    : 단위과제카드명
