@@ -3,6 +3,7 @@
 서울시 행정정보 데이터는 누구나 자유롭게 이용하실 수 있습니다. 
  
 > 원본데이터 : [서울정보소통광장](http://opengov.seoul.go.kr)
+
 > 문의 : jasong@seoul.go.kr , reinless@seoul.go.kr 
  
   
