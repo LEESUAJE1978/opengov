@@ -52,12 +52,15 @@
 	* 정책연구자료목록  : research_list
  
  
-### 파일명          
+### 파일명 및 유형         
  * 구성 : 기준연월일(from)+'\_'+기준연월일(to)+'\_'+분야명+종류+'\_'+(필요시설명)+'.'+확장자
  * 예시
 	* 결재문서 : 20150301_20150331_info_list.csv 
 	* 사전정보공표목록 : 20150301_20150331_public_list.xml
 	* 정책연구자료목록 : 20150301_20150331_research_list.xlsx
+ * 파일 유형별 특이사항
+	* *.csv : UTF-8로 인코딩 되어 있어, 엑셀 활용시 데이터 > 외부 데이터 가져오기 > 텍스트로 불러와야 한글이 정상적으로 표출됨. (엑셀의 한계)
+	* *json : 문자는 인코딩 되어 있어, 변환하여 사용해야 함.
  
  
 ### 분야별 항목설명 (별도 표시 없는 경우 NOT NULL항목)
@@ -68,10 +71,10 @@
 	* **title**           : 제목
 	* **src_dept_doc_id** : 문서번호 (예: 정보공개정책과-1234)
 	* **writer**          : 담당자
-	* **othnd_pd**        : 문서보존기간(1년,3년,5년,10년,30년,준영구,영구)
+	* **othnd_pd**        : 문서보존기간(1년, 3년, 5년, 10년, 30년, 준영구, 영구)
 	* **dept_nm**         : 부서명
 	* **othbs_se**        : 공개구분코드(공개,부분공개,비공개)
-	* **cpyrht**          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND ), *nullable*
+	* **cpyrht**          : 라이선스(CCL 적용, CC BY, CC BY-ND, CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND ), *nullable*
 	* **url**             : 원문공개URL, *nullable*
 	* **주의사항** :cpyrht,url은 원문공개중인 경우만 해당 정보가 존재함. 
  
@@ -85,7 +88,7 @@
 	* **regist_dt**       : 등록일시(정보소통광장 등록일시)
 	* **taxonomy**        : 업무상세분류(1단계~4단계)
 	* **telno**           : 전화번호, *nullable*
-	* **cpyrht**          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND )
+	* **cpyrht**          : 라이선스(CCL 적용, CC BY, CC BY-ND, CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND )
 	* **url**             : url
  
  
@@ -95,13 +98,13 @@
 	* **regist_dt**       : 등록일시
 	* **relm_cl**         : 자료유형(정책연구자료,논문,간행물,세미나) 
 	* **creat_yr**        : 생산년도
-	* **category**        : 분야(복지,여성가족,경제,안전,주택도시계획,환경,문화관광,건강,교통,건설,세금재정,행정)
-	* **region**          : 관련지역(서울시전체,서울25개자치구,수도권,전국,해외)
+	* **category**        : 분야(복지, 여성가족, 경제, 안전, 주택도시계획, 환경, 문화관광, 건강, 교통, 건설, 세금재정, 행정)
+	* **region**          : 관련지역(서울시 전체, 서울 25개 자치구, 수도권, 전국, 해외)
 	* **isbn**            : ISBN, *nullable*
 	* **relte_area**      : 원본시스템명
 	* **writer**          : 담당자
 	* **doc_prdctn_dt**   : 자료생산일자
-	* **cpyrht**          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND )
+	* **cpyrht**          : 라이선스(CCL 적용, CC BY, CC BY-ND, CC BY-SA, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND )
 	* **othbs_se**        : 공개구분
 	* **job_se**          : 작업구분(I,U,D)
 	* **url**             : url
