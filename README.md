@@ -60,47 +60,47 @@
  
 ### 분야별 항목설명 (별도 표시 없는 경우 NOT NULL항목)
  * **결재문서**
-		* package_id      : 문서관리번호(PK)
-		* doc_prdctn_dt   : 자료생산일자
-		* trck_card_nm    : 단위과제카드명
-		* title           : 제목
-		* src_dept_doc_id : 문서번호 (예: 정보공개정책과-1234)
-		* writer          : 담당자
-		* othnd_pd        : 문서보존기간
-		* dept_nm         : 부서명
-		* othbs_se        : 공개구분코드(공개,부분공개,비공개)
-		* url             : 원문공개URL, *nullable*
+	* package_id      : 문서관리번호(PK)
+	* doc_prdctn_dt   : 자료생산일자
+	* trck_card_nm    : 단위과제카드명
+	* title           : 제목
+	* src_dept_doc_id : 문서번호 (예: 정보공개정책과-1234)
+	* writer          : 담당자
+	* othnd_pd        : 문서보존기간
+	* dept_nm         : 부서명
+	* othbs_se        : 공개구분코드(공개,부분공개,비공개)
+	* url             : 원문공개URL, *nullable*
  
  
  * **사전정보공표목록**
-		* nid             : 관리번호(PK)
-		* category        : 분야
-		* title           : 제목
-		* writer          : 담당자
-		* dept_nm         : 부서명
-		* regist_dt       : 등록일시(정보소통광장 등록일시)
-		* taxonomy        : 업무상세분류
-		* telno           : 전화번호, *nullable*
-		* cpyrht          : 라이선스
-		* url             : url
+	* nid             : 관리번호(PK)
+	* category        : 분야
+	* title           : 제목
+	* writer          : 담당자
+	* dept_nm         : 부서명
+	* regist_dt       : 등록일시(정보소통광장 등록일시)
+	* taxonomy        : 업무상세분류
+	* telno           : 전화번호, *nullable*
+	* cpyrht          : 라이선스
+	* url             : url
  
  
  * **정책연구자료목록**
-		* nid             : 관리번호(PK)
-		* title           : 제목
-		* regist_dt       : 등록일시
-		* relm_cl         : 자료유형
-		* creat_yr        : 생산년도
-		* category        : 분야
-		* region          : 관련지역
-		* isbn            : ISBN, *nullable*
-		* relte_area      : 원본시스템
-		* writer          : 담당자
-		* doc_prdctn_dt   : 자료생산일자
-		* cpyrht          : 라이선스
-		* othbs_se        : 공개구분
-		* job_se          : 작업구분
-		* url             : url
+	* nid             : 관리번호(PK)
+	* title           : 제목
+	* regist_dt       : 등록일시
+	* relm_cl         : 자료유형
+	* creat_yr        : 생산년도
+	* category        : 분야
+	* region          : 관련지역
+	* isbn            : ISBN, *nullable*
+	* relte_area      : 원본시스템
+	* writer          : 담당자
+	* doc_prdctn_dt   : 자료생산일자
+	* cpyrht          : 라이선스
+	* othbs_se        : 공개구분
+	* job_se          : 작업구분
+	* url             : url
  
  
 
