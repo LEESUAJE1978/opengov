@@ -66,10 +66,12 @@
 	* title           : 제목
 	* src_dept_doc_id : 문서번호 (예: 정보공개정책과-1234)
 	* writer          : 담당자
-	* othnd_pd        : 문서보존기간
+	* othnd_pd        : 문서보존기간(1년,3년,5년,10년,30년,준영구,영구)
 	* dept_nm         : 부서명
 	* othbs_se        : 공개구분코드(공개,부분공개,비공개)
+	* cpyrht          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND ), *nullable*
 	* url             : 원문공개URL, *nullable*
+	* **주의사항 :cpyrht,url은 원문공개중인 경우만 해당 정보가 존재함. 
  
  
  * **사전정보공표목록**
@@ -79,9 +81,9 @@
 	* writer          : 담당자
 	* dept_nm         : 부서명
 	* regist_dt       : 등록일시(정보소통광장 등록일시)
-	* taxonomy        : 업무상세분류
+	* taxonomy        : 업무상세분류(1단계~4단계)
 	* telno           : 전화번호, *nullable*
-	* cpyrht          : 라이선스
+	* cpyrht          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND )
 	* url             : url
  
  
@@ -89,17 +91,17 @@
 	* nid             : 관리번호(PK)
 	* title           : 제목
 	* regist_dt       : 등록일시
-	* relm_cl         : 자료유형
+	* relm_cl         : 자료유형(정책연구자료,논문,간행물,세미나) 
 	* creat_yr        : 생산년도
-	* category        : 분야
-	* region          : 관련지역
+	* category        : 분야(복지,여성가족,경제,안전,주택도시계획,환경,문화관광,건강,교통,건설,세금재정,행정)
+	* region          : 관련지역(서울시전체,서울25개자치구,수도권,전국,해외)
 	* isbn            : ISBN, *nullable*
-	* relte_area      : 원본시스템
+	* relte_area      : 원본시스템명
 	* writer          : 담당자
 	* doc_prdctn_dt   : 자료생산일자
-	* cpyrht          : 라이선스
+	* cpyrht          : 라이선스(CCL 적용,CC BY,CC BY-ND,CC BY-SA,CC BY-NC,CC BY-NC-SA,CC BY-NC-ND )
 	* othbs_se        : 공개구분
-	* job_se          : 작업구분
+	* job_se          : 작업구분(I,U,D)
 	* url             : url
  
  
