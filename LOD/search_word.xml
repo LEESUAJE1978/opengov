@@ -1,0 +1,2717 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:opengov="http://opengov.seoul.go.kr/lod/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000129">
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"운행횟수 초청"@kor</skos:altLabel>
+    <dc:title>사업개선명령</dc:title>
+    <dc:language>kor</dc:language>
+    <dc:identifier>T00000000000129</dc:identifier>
+    <dc:type>시소러스</dc:type>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"신촌교통"@kor</skos:altLabel>
+    <skos:altLabel>"신촌교통 사업개선명령"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"아진"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000129"/>
+    <skos:altLabel>"노선조정"@kor</skos:altLabel>
+    <skos:prefLabel>사업개선명령</skos:prefLabel>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000038">
+        <skos:altLabel>"변경"@kor</skos:altLabel>
+        <skos:altLabel>"금호"@kor</skos:altLabel>
+        <skos:prefLabel>노선</skos:prefLabel>
+        <skos:altLabel>"버스노선"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000038"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <dcterms:created>20170926</dcterms:created>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:title>노선</dc:title>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000037">
+            <skos:altLabel>"7024번"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000037"/>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000028">
+                <skos:altLabel>"정류장"@kor</skos:altLabel>
+                <dc:date>20170928</dc:date>
+                <skos:altLabel>"택시"@kor</skos:altLabel>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000037"/>
+                <skos:prefLabel>버스</skos:prefLabel>
+                <skos:altLabel>"대차"@kor</skos:altLabel>
+                <dc:identifier>T00000000000028</dc:identifier>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000028"/>
+                <skos:altLabel>"버스정책과"@kor</skos:altLabel>
+                <skos:altLabel>"대폐차"@kor</skos:altLabel>
+                <skos:altLabel>"영인운수"@kor</skos:altLabel>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <dcterms:created>20170926</dcterms:created>
+                <skos:altLabel>"버스노선"@kor</skos:altLabel>
+                <skos:altLabel>"버스 운영"@kor</skos:altLabel>
+                <skos:exactMatch>
+                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000024">
+                    <skos:altLabel>"영신여객"@kor</skos:altLabel>
+                    <dc:identifier>T00000000000024</dc:identifier>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000028"/>
+                    <dcterms:created>20170926</dcterms:created>
+                    <skos:altLabel>"3316번"@kor</skos:altLabel>
+                    <skos:altLabel>"마을버스"@kor</skos:altLabel>
+                    <skos:altLabel>"선진운수"@kor</skos:altLabel>
+                    <dc:date>20170928</dc:date>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000119">
+                        <skos:altLabel>"대폐차"@kor</skos:altLabel>
+                        <dc:date>20170928</dc:date>
+                        <skos:altLabel>"센트럴시티"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000024"/>
+                        <skos:altLabel>"사업계획 변경 인가"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:altLabel>"안양교통"@kor</skos:altLabel>
+                        <skos:altLabel>"여객자동차운송사업개선명령"@kor</skos:altLabel>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:altLabel>"시내마을버스"@kor</skos:altLabel>
+                        <dc:type>시소러스</dc:type>
+                        <dc:title>여객자동차</dc:title>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <dc:identifier>T00000000000119</dc:identifier>
+                        <skos:altLabel>"강동소방서"@kor</skos:altLabel>
+                        <skos:altLabel>"여객자동차운송사업"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000119"/>
+                        <skos:altLabel>"서울승합"@kor</skos:altLabel>
+                        <skos:prefLabel>여객자동차</skos:prefLabel>
+                        <skos:altLabel>"여객"@kor</skos:altLabel>
+                        <dc:language>kor</dc:language>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:altLabel>"노선조정"@kor</skos:altLabel>
+                    <skos:prefLabel>대폐차</skos:prefLabel>
+                    <dc:type>시소러스</dc:type>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000024"/>
+                    <dc:language>kor</dc:language>
+                    <skos:altLabel>"북부운수"@kor</skos:altLabel>
+                    <skos:altLabel>"버스"@kor</skos:altLabel>
+                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                    <dc:title>대폐차</dc:title>
+                    <skos:altLabel>"여객자동차운송사업"@kor</skos:altLabel>
+                    <skos:altLabel>"동아운수"@kor</skos:altLabel>
+                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                    <skos:altLabel>"대폐차 계획에 따른 후속조치 요청"@kor</skos:altLabel>
+                  </rdf:Description>
+                </skos:exactMatch>
+                <dc:language>kor</dc:language>
+                <skos:altLabel>"정류소"@kor</skos:altLabel>
+                <dc:type>시소러스</dc:type>
+                <skos:altLabel>"시내버스"@kor</skos:altLabel>
+                <skos:exactMatch>
+                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000079">
+                    <dc:identifier>T00000000000079</dc:identifier>
+                    <dc:title>택시</dc:title>
+                    <skos:altLabel>"공동사업구역"@kor</skos:altLabel>
+                    <dc:language>kor</dc:language>
+                    <skos:prefLabel>택시</skos:prefLabel>
+                    <dc:type>시소러스</dc:type>
+                    <skos:altLabel>"교통불편"@kor</skos:altLabel>
+                    <skos:altLabel>"120재단"@kor</skos:altLabel>
+                    <skos:altLabel>"계약"@kor</skos:altLabel>
+                    <dc:date>20170928</dc:date>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000079"/>
+                    <skos:altLabel>"고급택시"@kor</skos:altLabel>
+                    <skos:altLabel>"해피존"@kor</skos:altLabel>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000028"/>
+                    <skos:altLabel>"광화문"@kor</skos:altLabel>
+                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                    <skos:altLabel>"개인택시운송사업면허취소"@kor</skos:altLabel>
+                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                    <dcterms:created>20170926</dcterms:created>
+                    <skos:altLabel>"도시교통본부"@kor</skos:altLabel>
+                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                  </rdf:Description>
+                </skos:exactMatch>
+                <dc:title>버스</dc:title>
+              </rdf:Description>
+            </skos:exactMatch>
+            <skos:altLabel>"여객"@kor</skos:altLabel>
+            <skos:altLabel>"버스"@kor</skos:altLabel>
+            <dc:identifier>T00000000000037</dc:identifier>
+            <skos:prefLabel>정류소</skos:prefLabel>
+            <dc:type>시소러스</dc:type>
+            <skos:altLabel>"노선"@kor</skos:altLabel>
+            <dc:title>정류소</dc:title>
+            <skos:altLabel>"3412"@kor</skos:altLabel>
+            <skos:altLabel>"정류소 명칭"@kor</skos:altLabel>
+            <skos:altLabel>"잔여공가"@kor</skos:altLabel>
+            <dc:date>20170928</dc:date>
+            <dc:language>kor</dc:language>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <skos:altLabel>"1162"@kor</skos:altLabel>
+            <skos:altLabel>"가상정류소"@kor</skos:altLabel>
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000038"/>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <skos:altLabel>"강서08"@kor</skos:altLabel>
+            <dcterms:created>20170926</dcterms:created>
+          </rdf:Description>
+        </skos:exactMatch>
+        <skos:altLabel>"여객"@kor</skos:altLabel>
+        <skos:altLabel>"사업개선명령"@kor</skos:altLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"노선조정"@kor</skos:altLabel>
+        <skos:altLabel>"위원회"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000129"/>
+        <dc:language>kor</dc:language>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000112">
+            <dc:identifier>T00000000000112</dc:identifier>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000038"/>
+            <skos:altLabel>"공직윤리"@kor</skos:altLabel>
+            <skos:prefLabel>위원회</skos:prefLabel>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <dcterms:created>20170926</dcterms:created>
+            <skos:altLabel>"위원회 정비"@kor</skos:altLabel>
+            <skos:altLabel>"개최"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000112"/>
+            <dc:type>시소러스</dc:type>
+            <skos:altLabel>"규제"@kor</skos:altLabel>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <dc:title>위원회</dc:title>
+            <dc:date>20170928</dc:date>
+            <skos:altLabel>"행정심판위원회"@kor</skos:altLabel>
+            <skos:altLabel>"건축위원회"@kor</skos:altLabel>
+            <dc:language>kor</dc:language>
+            <skos:altLabel>"지명위원회"@kor</skos:altLabel>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000054">
+                <skos:prefLabel>건축위원회</skos:prefLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000112"/>
+                <skos:altLabel>"건축위원회 심의"@kor</skos:altLabel>
+                <skos:altLabel>"서울시 건축위원회"@kor</skos:altLabel>
+                <skos:altLabel>"건축"@kor</skos:altLabel>
+                <dc:date>20170928</dc:date>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000054"/>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <skos:altLabel>"건축위원회 심의결과"@kor</skos:altLabel>
+                <dc:language>kor</dc:language>
+                <dc:identifier>T00000000000054</dc:identifier>
+                <skos:altLabel>"건축위원회 개최"@kor</skos:altLabel>
+                <dc:type>시소러스</dc:type>
+                <skos:altLabel>"건축(소)위원회"@kor</skos:altLabel>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <skos:altLabel>"건축심의"@kor</skos:altLabel>
+                <dcterms:created>20170926</dcterms:created>
+                <dc:title>건축위원회</dc:title>
+                <skos:altLabel>"위원회"@kor</skos:altLabel>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:altLabel>"서울특별시 건축위원회"@kor</skos:altLabel>
+                <skos:altLabel>"건축위원회 위원"@kor</skos:altLabel>
+              </rdf:Description>
+            </skos:exactMatch>
+            <skos:altLabel>"교육발전위원회"@kor</skos:altLabel>
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000093">
+                <dc:identifier>T00000000000093</dc:identifier>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <skos:altLabel>"규제 평가"@kor</skos:altLabel>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:altLabel>"고문변호사"@kor</skos:altLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000112"/>
+                <skos:altLabel>"규제 토론회"@kor</skos:altLabel>
+                <skos:altLabel>"건축규제"@kor</skos:altLabel>
+                <skos:altLabel>"계획"@kor</skos:altLabel>
+                <skos:altLabel>"공유"@kor</skos:altLabel>
+                <skos:altLabel>"규제 계획"@kor</skos:altLabel>
+                <dcterms:created>20170926</dcterms:created>
+                <dc:title>규제</dc:title>
+                <skos:prefLabel>규제</skos:prefLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000093"/>
+                <dc:type>시소러스</dc:type>
+                <dc:language>kor</dc:language>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <skos:exactMatch>
+                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000025">
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000036">
+                        <skos:prefLabel>홍보</skos:prefLabel>
+                        <skos:altLabel>"이벤트"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000036"/>
+                        <skos:altLabel>"진품명품"@kor</skos:altLabel>
+                        <dc:date>20170928</dc:date>
+                        <dc:identifier>T00000000000036</dc:identifier>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <skos:altLabel>"공보"@kor</skos:altLabel>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <skos:altLabel>"꿈새김판"@kor</skos:altLabel>
+                        <skos:altLabel>"교차홍보"@kor</skos:altLabel>
+                        <skos:altLabel>"광고"@kor</skos:altLabel>
+                        <skos:altLabel>"홍보계획"@kor</skos:altLabel>
+                        <dc:language>kor</dc:language>
+                        <dc:type>시소러스</dc:type>
+                        <skos:altLabel>"홍보대사"@kor</skos:altLabel>
+                        <skos:altLabel>"제안 회신"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <dc:title>홍보</dc:title>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000041">
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:altLabel>"감사보고서"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <dc:date>20170928</dc:date>
+                        <dcterms:created>20170926</dcterms:created>
+                        <dc:type>시소러스</dc:type>
+                        <skos:exactMatch>
+                          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000034">
+                            <skos:altLabel>"주요업무보고"@kor</skos:altLabel>
+                            <skos:altLabel>"남가영"@kor</skos:altLabel>
+                            <dc:date>20170928</dc:date>
+                            <skos:altLabel>"업무계획"@kor</skos:altLabel>
+                            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                            <skos:exactMatch>
+                              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000043">
+                                <skos:altLabel>"일자리"@kor</skos:altLabel>
+                                <skos:altLabel>"추진계획"@kor</skos:altLabel>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                                <skos:altLabel>"사업계획"@kor</skos:altLabel>
+                                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                <dcterms:created>20170926</dcterms:created>
+                                <skos:altLabel>"주요업무계획"@kor</skos:altLabel>
+                                <skos:altLabel>"주요업무보고"@kor</skos:altLabel>
+                                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                <dc:title>업무보고</dc:title>
+                                <dc:date>20170928</dc:date>
+                                <dc:type>시소러스</dc:type>
+                                <skos:exactMatch>
+                                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000073">
+                                    <skos:exactMatch>
+                                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000066">
+                                        <skos:altLabel>"공모전"@kor</skos:altLabel>
+                                        <skos:altLabel>"명칭"@kor</skos:altLabel>
+                                        <skos:altLabel>"경의선숲길 공원조성"@kor</skos:altLabel>
+                                        <skos:altLabel>"공모사업"@kor</skos:altLabel>
+                                        <dc:type>시소러스</dc:type>
+                                        <dc:date>20170928</dc:date>
+                                        <skos:altLabel>"조직"@kor</skos:altLabel>
+                                        <skos:altLabel>"협치"@kor</skos:altLabel>
+                                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                        <skos:altLabel>"공동체"@kor</skos:altLabel>
+                                        <skos:altLabel>"공모 계획"@kor</skos:altLabel>
+                                        <dcterms:created>20170926</dcterms:created>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000073"/>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000066"/>
+                                        <skos:exactMatch>
+                                          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000098">
+                                            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                            <skos:altLabel>"마을학교"@kor</skos:altLabel>
+                                            <skos:altLabel>"거버넌스"@kor</skos:altLabel>
+                                            <skos:exactMatch>
+                                              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000086">
+                                                <dcterms:created
+                                                >20170926</dcterms:created>
+                                                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                                <skos:prefLabel
+                                                >마을공동체</skos:prefLabel>
+                                                <skos:altLabel
+                                                >"마을공동체 협약서"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"마을공동체 허브변신"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"마을공동체 위원회"@kor</skos:altLabel>
+                                                <dc:publisher
+                                                >Seoul Metropolitan Government</dc:publisher>
+                                                <skos:altLabel
+                                                >"마을공동체 영문판"@kor</skos:altLabel>
+                                                <dc:identifier
+                                                >T00000000000086</dc:identifier>
+                                                <skos:altLabel
+                                                >"마을공동체 계획"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"마을공동체 기본계획"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"마을과 함께하는 학교"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"마을공동체 현황"@kor</skos:altLabel>
+                                                <dc:date>20170928</dc:date>
+                                                <skos:altLabel
+                                                >"마을공동체 공모사업"@kor</skos:altLabel>
+                                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000098"/>
+                                                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                                <dc:type>시소러스</dc:type>
+                                                <dc:title>마을공동체</dc:title>
+                                                <skos:altLabel
+                                                >"마을공동체 백서"@kor</skos:altLabel>
+                                                <dc:language>kor</dc:language>
+                                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000086"/>
+                                              </rdf:Description>
+                                            </skos:exactMatch>
+                                            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                            <skos:altLabel>"아카데미"@kor</skos:altLabel>
+                                            <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                            <skos:altLabel>"협치자문관"@kor</skos:altLabel>
+                                            <skos:altLabel>"빅데이터 캠퍼스"@kor</skos:altLabel>
+                                            <skos:altLabel>"마을공동체"@kor</skos:altLabel>
+                                            <skos:altLabel>"성북구"@kor</skos:altLabel>
+                                            <skos:exactMatch>
+                                              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000130">
+                                                <skos:altLabel
+                                                >"성북"@kor</skos:altLabel>
+                                                <skos:prefLabel
+                                                >성북구</skos:prefLabel>
+                                                <skos:altLabel
+                                                >"환경미화원"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"성북구도시관리공단"@kor</skos:altLabel>
+                                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000130"/>
+                                                <dc:title>성북구</dc:title>
+                                                <skos:altLabel
+                                                >"성북구 도시관리공단"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"성북구 청소행정과"@kor</skos:altLabel>
+                                                <skos:exactMatch>
+                                                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000076">
+                                                    <skos:altLabel
+                                                    >"서울연구원"@kor</skos:altLabel>
+                                                    <skos:note
+                                                    >2015년, 2016년 내부검색어</skos:note>
+                                                    <skos:prefLabel
+                                                    >경영평가</skos:prefLabel>
+                                                    <skos:altLabel
+                                                    >"경영실적보고"@kor</skos:altLabel>
+                                                    <dc:date>20170928</dc:date>
+                                                    <skos:altLabel
+                                                    >"문서관리"@kor</skos:altLabel>
+                                                    <dc:language
+                                                    >kor</dc:language>
+                                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000130"/>
+                                                    <skos:altLabel
+                                                    >"경영개선"@kor</skos:altLabel>
+                                                    <skos:altLabel
+                                                    >"경영평가 정부 3.0"@kor</skos:altLabel>
+                                                    <dc:type>시소러스</dc:type>
+                                                    <skos:altLabel
+                                                    >"3.0"@kor</skos:altLabel>
+                                                    <skos:altLabel
+                                                    >"경영평가보고서"@kor</skos:altLabel>
+                                                    <skos:altLabel
+                                                    >"경영평가 출자출연기관"@kor</skos:altLabel>
+                                                    <skos:altLabel
+                                                    >"경영평가 보고서"@kor</skos:altLabel>
+                                                    <dc:title
+                                                    >경영평가</dc:title>
+                                                    <dc:identifier
+                                                    >T00000000000076</dc:identifier>
+                                                    <dcterms:created
+                                                    >20170926</dcterms:created>
+                                                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000076"/>
+                                                    <skos:altLabel
+                                                    >"경영평가 실적자료"@kor</skos:altLabel>
+                                                    <dc:publisher
+                                                    >Seoul Metropolitan Government</dc:publisher>
+                                                  </rdf:Description>
+                                                </skos:exactMatch>
+                                                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                                <dc:publisher
+                                                >Seoul Metropolitan Government</dc:publisher>
+                                                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                                <dc:date>20170928</dc:date>
+                                                <skos:altLabel
+                                                >"청소행정과"@kor</skos:altLabel>
+                                                <skos:altLabel
+                                                >"공적"@kor</skos:altLabel>
+                                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000098"/>
+                                                <skos:altLabel
+                                                >"성북구청소행정과"@kor</skos:altLabel>
+                                                <dc:identifier
+                                                >T00000000000130</dc:identifier>
+                                                <dc:language>kor</dc:language>
+                                                <skos:altLabel
+                                                >"강북구"@kor</skos:altLabel>
+                                                <dcterms:created
+                                                >20170926</dcterms:created>
+                                                <dc:type>시소러스</dc:type>
+                                                <skos:altLabel
+                                                >"경영평가"@kor</skos:altLabel>
+                                              </rdf:Description>
+                                            </skos:exactMatch>
+                                            <skos:altLabel>"소통계획"@kor</skos:altLabel>
+                                            <dc:language>kor</dc:language>
+                                            <skos:prefLabel>협치</skos:prefLabel>
+                                            <dc:type>시소러스</dc:type>
+                                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000066"/>
+                                            <skos:altLabel>"건축위원"@kor</skos:altLabel>
+                                            <dc:date>20170928</dc:date>
+                                            <dc:identifier>T00000000000098</dc:identifier>
+                                            <dc:title>협치</dc:title>
+                                            <skos:altLabel>"서울협치협의회"@kor</skos:altLabel>
+                                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000098"/>
+                                            <dcterms:created>20170926</dcterms:created>
+                                          </rdf:Description>
+                                        </skos:exactMatch>
+                                        <skos:altLabel>"공모 신체활동"@kor</skos:altLabel>
+                                        <skos:prefLabel>공모</skos:prefLabel>
+                                        <dc:identifier>T00000000000066</dc:identifier>
+                                        <dc:language>kor</dc:language>
+                                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                        <skos:altLabel>"공모 결과"@kor</skos:altLabel>
+                                        <dc:title>공모</dc:title>
+                                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                      </rdf:Description>
+                                    </skos:exactMatch>
+                                    <skos:altLabel>"공시제"@kor</skos:altLabel>
+                                    <dc:title>일자리</dc:title>
+                                    <dc:identifier>T00000000000073</dc:identifier>
+                                    <skos:altLabel>"구민"@kor</skos:altLabel>
+                                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                    <skos:altLabel>"기획"@kor</skos:altLabel>
+                                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                    <skos:altLabel>"어르신 일자리"@kor</skos:altLabel>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000043"/>
+                                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                    <dcterms:created>20170926</dcterms:created>
+                                    <skos:altLabel>"관광"@kor</skos:altLabel>
+                                    <dc:type>시소러스</dc:type>
+                                    <skos:altLabel>"일자리정책"@kor</skos:altLabel>
+                                    <skos:exactMatch>
+                                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000042">
+                                        <dc:date>20170928</dc:date>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000042"/>
+                                        <skos:prefLabel>청년</skos:prefLabel>
+                                        <skos:altLabel>"청년 상인"@kor</skos:altLabel>
+                                        <dc:identifier>T00000000000042</dc:identifier>
+                                        <skos:altLabel>"청년정책"@kor</skos:altLabel>
+                                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                        <skos:altLabel>"청년주택"@kor</skos:altLabel>
+                                        <dc:title>청년</dc:title>
+                                        <dc:type>시소러스</dc:type>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000073"/>
+                                        <skos:altLabel>"청년수당"@kor</skos:altLabel>
+                                        <skos:altLabel>"청년일자리"@kor</skos:altLabel>
+                                        <dc:language>kor</dc:language>
+                                        <skos:altLabel>"취업"@kor</skos:altLabel>
+                                        <skos:altLabel>"청년활동지원사업"@kor</skos:altLabel>
+                                        <skos:altLabel>"일자리"@kor</skos:altLabel>
+                                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                        <dcterms:created>20170926</dcterms:created>
+                                        <skos:altLabel>"2020 서울형 청년보장 추진계획"@kor</skos:altLabel>
+                                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                      </rdf:Description>
+                                    </skos:exactMatch>
+                                    <skos:altLabel>"공모"@kor</skos:altLabel>
+                                    <skos:exactMatch>
+                                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000118">
+                                        <skos:altLabel>"관광지도"@kor</skos:altLabel>
+                                        <skos:altLabel>"관광숙박시설"@kor</skos:altLabel>
+                                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                        <dc:type>시소러스</dc:type>
+                                        <skos:altLabel>"관광대책"@kor</skos:altLabel>
+                                        <skos:altLabel>"봉제"@kor</skos:altLabel>
+                                        <skos:altLabel>"관광객"@kor</skos:altLabel>
+                                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                        <skos:altLabel>"꽃"@kor</skos:altLabel>
+                                        <skos:altLabel>"문래"@kor</skos:altLabel>
+                                        <skos:altLabel>"관광 현황"@kor</skos:altLabel>
+                                        <dc:language>kor</dc:language>
+                                        <skos:altLabel>"서울역"@kor</skos:altLabel>
+                                        <dc:title>관광</dc:title>
+                                        <dcterms:created>20170926</dcterms:created>
+                                        <dc:date>20170928</dc:date>
+                                        <dc:identifier>T00000000000118</dc:identifier>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000118"/>
+                                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000073"/>
+                                        <skos:altLabel>"관광실태조사"@kor</skos:altLabel>
+                                        <skos:prefLabel>관광</skos:prefLabel>
+                                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                      </rdf:Description>
+                                    </skos:exactMatch>
+                                    <dc:date>20170928</dc:date>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000073"/>
+                                    <skos:altLabel>"일자리대책"@kor</skos:altLabel>
+                                    <dc:language>kor</dc:language>
+                                    <skos:altLabel>"관급공사"@kor</skos:altLabel>
+                                    <skos:prefLabel>일자리</skos:prefLabel>
+                                  </rdf:Description>
+                                </skos:exactMatch>
+                                <dc:identifier>T00000000000043</dc:identifier>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000034"/>
+                                <skos:altLabel>"보고서"@kor</skos:altLabel>
+                                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                <skos:altLabel>"업무계획"@kor</skos:altLabel>
+                                <dc:language>kor</dc:language>
+                                <skos:prefLabel>업무보고</skos:prefLabel>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000043"/>
+                                <skos:exactMatch>
+                                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000047">
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                    <skos:altLabel>"소방서 업무계획"@kor</skos:altLabel>
+                                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000034"/>
+                                    <dcterms:created>20170926</dcterms:created>
+                                    <skos:altLabel>"업무보고"@kor</skos:altLabel>
+                                    <dc:language>kor</dc:language>
+                                    <dc:title>업무계획</dc:title>
+                                    <skos:prefLabel>업무계획</skos:prefLabel>
+                                    <skos:altLabel>"2016"@kor</skos:altLabel>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000043"/>
+                                    <skos:altLabel>"주요업무"@kor</skos:altLabel>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000047"/>
+                                    <skos:altLabel>"추진업무"@kor</skos:altLabel>
+                                    <skos:altLabel>"계획"@kor</skos:altLabel>
+                                    <dc:date>20170928</dc:date>
+                                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                    <dc:type>시소러스</dc:type>
+                                    <skos:altLabel>"2015년 업무"@kor</skos:altLabel>
+                                    <skos:altLabel>"주요업무계획"@kor</skos:altLabel>
+                                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                                    <dc:identifier>T00000000000047</dc:identifier>
+                                  </rdf:Description>
+                                </skos:exactMatch>
+                              </rdf:Description>
+                            </skos:exactMatch>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                            <skos:altLabel>"추진계획"@kor</skos:altLabel>
+                            <skos:altLabel>"주요업무계획 책자"@kor</skos:altLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000034"/>
+                            <skos:altLabel>"주요업무"@kor</skos:altLabel>
+                            <skos:prefLabel>주요업무계획</skos:prefLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                            <skos:altLabel>"주요업무계획 복지"@kor</skos:altLabel>
+                            <skos:altLabel>"계획"@kor</skos:altLabel>
+                            <skos:altLabel>"소방 주요업무계획"@kor</skos:altLabel>
+                            <dc:title>주요업무계획</dc:title>
+                            <dc:type>시소러스</dc:type>
+                            <dc:identifier>T00000000000034</dc:identifier>
+                            <skos:altLabel>"연차별"@kor</skos:altLabel>
+                            <dc:language>kor</dc:language>
+                            <skos:note>2015년, 2016년 내부검색어</skos:note>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000047"/>
+                            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                            <dcterms:created>20170926</dcterms:created>
+                          </rdf:Description>
+                        </skos:exactMatch>
+                        <skos:altLabel>"설문조사"@kor</skos:altLabel>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <skos:prefLabel>추진계획</skos:prefLabel>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <skos:altLabel>"운영계획"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000043"/>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000047"/>
+                        <dc:language>kor</dc:language>
+                        <skos:exactMatch>
+                          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000100">
+                            <skos:note>2015년, 2016년 내부검색어</skos:note>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000100"/>
+                            <skos:altLabel>"계획서 제출"@kor</skos:altLabel>
+                            <skos:altLabel>"굴토분야"@kor</skos:altLabel>
+                            <skos:altLabel>"노인일자리"@kor</skos:altLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                            <skos:altLabel>"사업계획"@kor</skos:altLabel>
+                            <skos:altLabel>"간호부 운영계획"@kor</skos:altLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                            <skos:altLabel>"다양한 대상을"@kor</skos:altLabel>
+                            <skos:prefLabel>운영계획</skos:prefLabel>
+                            <dc:title>운영계획</dc:title>
+                            <dc:language>kor</dc:language>
+                            <skos:altLabel>"단속반 운영"@kor</skos:altLabel>
+                            <skos:altLabel>"운영 계획"@kor</skos:altLabel>
+                            <skos:altLabel>"부서 운영계획"@kor</skos:altLabel>
+                            <dc:type>시소러스</dc:type>
+                            <dc:identifier>T00000000000100</dc:identifier>
+                            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                            <dcterms:created>20170926</dcterms:created>
+                            <dc:date>20170928</dc:date>
+                            <skos:altLabel>"대기질"@kor</skos:altLabel>
+                          </rdf:Description>
+                        </skos:exactMatch>
+                        <skos:exactMatch>
+                          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000061">
+                            <dcterms:created>20170926</dcterms:created>
+                            <dc:language>kor</dc:language>
+                            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                            <skos:altLabel>"국회의원"@kor</skos:altLabel>
+                            <skos:altLabel>"휴가"@kor</skos:altLabel>
+                            <dc:title>결과보고</dc:title>
+                            <skos:altLabel>"교육 결과보고"@kor</skos:altLabel>
+                            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                            <dc:type>시소러스</dc:type>
+                            <skos:altLabel>"사업결과보고"@kor</skos:altLabel>
+                            <dc:date>20170928</dc:date>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                            <skos:altLabel>"회의결과보고"@kor</skos:altLabel>
+                            <skos:note>2015년, 2016년 내부검색어</skos:note>
+                            <dc:identifier>T00000000000061</dc:identifier>
+                            <skos:altLabel>"행사 결과보고"@kor</skos:altLabel>
+                            <skos:altLabel>"결과보고서"@kor</skos:altLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000061"/>
+                            <skos:prefLabel>결과보고</skos:prefLabel>
+                            <skos:altLabel>"간담회 계획"@kor</skos:altLabel>
+                          </rdf:Description>
+                        </skos:exactMatch>
+                        <skos:altLabel>"시행계획"@kor</skos:altLabel>
+                        <skos:altLabel>"개선 계획"@kor</skos:altLabel>
+                        <skos:altLabel>"업무계획"@kor</skos:altLabel>
+                        <dc:title>추진계획</dc:title>
+                        <dc:identifier>T00000000000041</dc:identifier>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000041"/>
+                        <skos:altLabel>"결과보고"@kor</skos:altLabel>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:altLabel>"조례"@kor</skos:altLabel>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000093"/>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000062">
+                        <skos:altLabel>"가을 축제"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:prefLabel>축제</skos:prefLabel>
+                        <skos:altLabel>"노래연습장"@kor</skos:altLabel>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:altLabel>"거리"@kor</skos:altLabel>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000062"/>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <skos:altLabel>"축제 공모"@kor</skos:altLabel>
+                        <dc:title>축제</dc:title>
+                        <dc:language>kor</dc:language>
+                        <skos:altLabel>"농산물"@kor</skos:altLabel>
+                        <skos:exactMatch>
+                          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000102">
+                            <skos:note>2015년, 2016년 내부검색어</skos:note>
+                            <dc:type>시소러스</dc:type>
+                            <skos:altLabel>"축제"@kor</skos:altLabel>
+                            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                            <skos:altLabel>"교육복지"@kor</skos:altLabel>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000102"/>
+                            <skos:altLabel>"사회복지"@kor</skos:altLabel>
+                            <skos:altLabel>"건강매점"@kor</skos:altLabel>
+                            <dc:title>청소년</dc:title>
+                            <skos:prefLabel>청소년</skos:prefLabel>
+                            <skos:altLabel>"학교 밖 청소년"@kor</skos:altLabel>
+                            <skos:altLabel>"상담"@kor</skos:altLabel>
+                            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000062"/>
+                            <skos:altLabel>"유공자"@kor</skos:altLabel>
+                            <skos:exactMatch>
+                              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000040">
+                                <skos:altLabel>"안전교육"@kor</skos:altLabel>
+                                <skos:altLabel>"6급 교육"@kor</skos:altLabel>
+                                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                                <skos:altLabel>"강의"@kor</skos:altLabel>
+                                <dc:title>교육</dc:title>
+                                <dc:language>kor</dc:language>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000040"/>
+                                <dc:date>20170928</dc:date>
+                                <skos:altLabel>"교육계획"@kor</skos:altLabel>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000102"/>
+                                <dc:type>시소러스</dc:type>
+                                <skos:altLabel>"개선"@kor</skos:altLabel>
+                                <skos:prefLabel>교육</skos:prefLabel>
+                                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                                <skos:altLabel>"교육훈련"@kor</skos:altLabel>
+                                <skos:altLabel>"교육자료"@kor</skos:altLabel>
+                                <dc:identifier>T00000000000040</dc:identifier>
+                                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                                <skos:altLabel>"계획"@kor</skos:altLabel>
+                                <skos:altLabel>"감사공무원 교육"@kor</skos:altLabel>
+                                <dcterms:created>20170926</dcterms:created>
+                              </rdf:Description>
+                            </skos:exactMatch>
+                            <skos:altLabel>"만족도"@kor</skos:altLabel>
+                            <skos:altLabel>"교육"@kor</skos:altLabel>
+                            <dc:language>kor</dc:language>
+                            <dc:date>20170928</dc:date>
+                            <dcterms:created>20170926</dcterms:created>
+                            <dc:identifier>T00000000000102</dc:identifier>
+                          </rdf:Description>
+                        </skos:exactMatch>
+                        <dc:type>시소러스</dc:type>
+                        <skos:altLabel>"다트"@kor</skos:altLabel>
+                        <skos:altLabel>"대방골"@kor</skos:altLabel>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:altLabel>"축제 계획"@kor</skos:altLabel>
+                        <dc:date>20170928</dc:date>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <skos:altLabel>"골목문화"@kor</skos:altLabel>
+                        <dc:identifier>T00000000000062</dc:identifier>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000100"/>
+                    <skos:altLabel>"운영계획"@kor</skos:altLabel>
+                    <dc:language>kor</dc:language>
+                    <dc:title>계획</dc:title>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000040"/>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000047"/>
+                    <skos:altLabel>"계획(안)"@kor</skos:altLabel>
+                    <skos:altLabel>"사업계획"@kor</skos:altLabel>
+                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                    <dc:type>시소러스</dc:type>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000087">
+                        <skos:altLabel>"결과"@kor</skos:altLabel>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <skos:altLabel>"고척돔"@kor</skos:altLabel>
+                        <dc:language>kor</dc:language>
+                        <skos:altLabel>"강남수서"@kor</skos:altLabel>
+                        <dc:title>조례</dc:title>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:altLabel>"건축"@kor</skos:altLabel>
+                        <dc:identifier>T00000000000087</dc:identifier>
+                        <skos:altLabel>"국회의원"@kor</skos:altLabel>
+                        <skos:prefLabel>조례</skos:prefLabel>
+                        <skos:altLabel>"조례 개정"@kor</skos:altLabel>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:altLabel>"탄천"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <skos:altLabel>"공유재산 및 물품관리"@kor</skos:altLabel>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000087"/>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <skos:altLabel>"구로구 조례"@kor</skos:altLabel>
+                        <dc:type>시소러스</dc:type>
+                        <dc:date>20170928</dc:date>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <dc:date>20170928</dc:date>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000033">
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <skos:altLabel>"업무추진"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:altLabel>"강남소방서 업무추진비"@kor</skos:altLabel>
+                        <dc:title>업무추진비</dc:title>
+                        <dc:language>kor</dc:language>
+                        <skos:altLabel>"업무추진비공개"@kor</skos:altLabel>
+                        <skos:altLabel>"구매계획"@kor</skos:altLabel>
+                        <skos:altLabel>"119안전센터"@kor</skos:altLabel>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:prefLabel>업무추진비</skos:prefLabel>
+                        <skos:altLabel>"과 내역서"@kor</skos:altLabel>
+                        <skos:altLabel>"부서운영업무추진비"@kor</skos:altLabel>
+                        <skos:altLabel>"강남 업무추진비"@kor</skos:altLabel>
+                        <skos:altLabel>"업무추진비 공개"@kor</skos:altLabel>
+                        <dc:date>20170928</dc:date>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <dc:type>시소러스</dc:type>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000033"/>
+                        <dc:identifier>T00000000000033</dc:identifier>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:altLabel>"지침"@kor</skos:altLabel>
+                    <skos:altLabel>"추진계획"@kor</skos:altLabel>
+                    <dcterms:created>20170926</dcterms:created>
+                    <dc:identifier>T00000000000025</dc:identifier>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000081">
+                        <dc:date>20170928</dc:date>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:altLabel>"경진대회"@kor</skos:altLabel>
+                        <dc:type>시소러스</dc:type>
+                        <skos:altLabel>"공공조달"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:altLabel>"동작구 사회적경제"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <dc:language>kor</dc:language>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000081"/>
+                        <skos:prefLabel>사회적경제</skos:prefLabel>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:altLabel>"공공구매"@kor</skos:altLabel>
+                        <skos:altLabel>"사회적경제 특구"@kor</skos:altLabel>
+                        <skos:altLabel>"광진구 사회적경제 특구"@kor</skos:altLabel>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                        <skos:altLabel>"사회적"@kor</skos:altLabel>
+                        <dc:identifier>T00000000000081</dc:identifier>
+                        <skos:altLabel>"동작구사회적경제"@kor</skos:altLabel>
+                        <dc:title>사회적경제</dc:title>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:altLabel>"업무계획"@kor</skos:altLabel>
+                    <skos:prefLabel>계획</skos:prefLabel>
+                    <skos:altLabel>"결과"@kor</skos:altLabel>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000060">
+                        <skos:prefLabel>장애인</skos:prefLabel>
+                        <skos:altLabel>"장애인공무원"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000060"/>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000025"/>
+                        <skos:altLabel>"등록장애인"@kor</skos:altLabel>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <dc:date>20170928</dc:date>
+                        <skos:altLabel>"발달장애인"@kor</skos:altLabel>
+                        <skos:altLabel>"근로지원"@kor</skos:altLabel>
+                        <dc:type>시소러스</dc:type>
+                        <skos:altLabel>"장애인거주시설"@kor</skos:altLabel>
+                        <skos:altLabel>"건강체조"@kor</skos:altLabel>
+                        <skos:altLabel>"맞춤형자세"@kor</skos:altLabel>
+                        <skos:altLabel>"돌봄가족휴가제"@kor</skos:altLabel>
+                        <dc:identifier>T00000000000060</dc:identifier>
+                        <skos:altLabel>"맞춤형보육"@kor</skos:altLabel>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <dc:language>kor</dc:language>
+                        <dc:title>장애인</dc:title>
+                        <skos:altLabel>"계획"@kor</skos:altLabel>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <skos:altLabel>"개선"@kor</skos:altLabel>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000034"/>
+                    <skos:altLabel>"계획서"@kor</skos:altLabel>
+                  </rdf:Description>
+                </skos:exactMatch>
+                <skos:altLabel>"규제개혁"@kor</skos:altLabel>
+                <skos:altLabel>"규제개혁 교육"@kor</skos:altLabel>
+                <dc:date>20170928</dc:date>
+                <skos:altLabel>"규재"@kor</skos:altLabel>
+              </rdf:Description>
+            </skos:exactMatch>
+            <skos:altLabel>"교류"@kor</skos:altLabel>
+            <skos:altLabel>"위원"@kor</skos:altLabel>
+          </rdf:Description>
+        </skos:exactMatch>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"노선신설"@kor</skos:altLabel>
+        <dc:identifier>T00000000000038</dc:identifier>
+        <skos:altLabel>"개편"@kor</skos:altLabel>
+        <skos:altLabel>"삼성여객"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"사업개선"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"노선"@kor</skos:altLabel>
+    <skos:altLabel>"110"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000132">
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000110">
+        <skos:altLabel>"지방보조금 예산편성"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000110"/>
+        <skos:altLabel>"미아리"@kor</skos:altLabel>
+        <dc:identifier>T00000000000110</dc:identifier>
+        <skos:altLabel>"공익활동"@kor</skos:altLabel>
+        <skos:altLabel>"중기지방재정계획"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000132"/>
+        <dcterms:created>20170926</dcterms:created>
+        <dc:title>지방보조금</dc:title>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"지방보조금 공모"@kor</skos:altLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"지방보조금심의위원회"@kor</skos:altLabel>
+        <skos:prefLabel>지방보조금</skos:prefLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"마을학교"@kor</skos:altLabel>
+        <skos:altLabel>"지방보조금 심의"@kor</skos:altLabel>
+        <skos:altLabel>"민간경상"@kor</skos:altLabel>
+        <skos:altLabel>"지방보조금심의위원회 결과"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"결산"@kor</skos:altLabel>
+    <skos:altLabel>"지방보조금"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"기반시설 보조금"@kor</skos:altLabel>
+    <dc:identifier>T00000000000132</dc:identifier>
+    <dc:type>시소러스</dc:type>
+    <skos:prefLabel>보조금</skos:prefLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"구급대원"@kor</skos:altLabel>
+    <skos:altLabel>"교육경비보조금"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"감면"@kor</skos:altLabel>
+    <skos:altLabel>"구제역"@kor</skos:altLabel>
+    <skos:altLabel>"보조금교부"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000132"/>
+    <skos:altLabel>"잔액"@kor</skos:altLabel>
+    <skos:altLabel>"노후공공임대 보조금"@kor</skos:altLabel>
+    <dc:title>보조금</dc:title>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000099">
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"간담회"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"민간위탁"@kor</skos:altLabel>
+    <skos:altLabel>"교육 계획"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000044">
+        <skos:altLabel>"예산편성"@kor</skos:altLabel>
+        <dc:title>예산</dc:title>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:prefLabel>예산</skos:prefLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000044"/>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"예산안"@kor</skos:altLabel>
+        <skos:altLabel>"예산수립"@kor</skos:altLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"세출"@kor</skos:altLabel>
+        <skos:altLabel>"예산서"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000099"/>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"주민참여"@kor</skos:altLabel>
+        <skos:altLabel>"예산 편성"@kor</skos:altLabel>
+        <skos:altLabel>"조명"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <dc:identifier>T00000000000044</dc:identifier>
+        <skos:altLabel>"추가경정"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"강남수서역"@kor</skos:altLabel>
+    <skos:altLabel>"생활임금의 날"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000056">
+        <skos:altLabel>"간담회 개최"@kor</skos:altLabel>
+        <dc:language>kor</dc:language>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000051">
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <dc:identifier>T00000000000051</dc:identifier>
+            <skos:altLabel>"교통문화교육원 민간위탁"@kor</skos:altLabel>
+            <dc:date>20170928</dc:date>
+            <skos:prefLabel>민간위탁</skos:prefLabel>
+            <skos:altLabel>"민간위탁 검토"@kor</skos:altLabel>
+            <skos:altLabel>"민간위탁 감사"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000051"/>
+            <dcterms:created>20170926</dcterms:created>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000134">
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <dc:date>20170928</dc:date>
+                <skos:altLabel>"간행물"@kor</skos:altLabel>
+                <skos:altLabel>"도시계획위원회 회의록"@kor</skos:altLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000051"/>
+                <dcterms:created>20170926</dcterms:created>
+                <skos:altLabel>"공적"@kor</skos:altLabel>
+                <skos:altLabel>"기록물평가심의회 회의록"@kor</skos:altLabel>
+                <skos:altLabel>"학술용역 회의록"@kor</skos:altLabel>
+                <skos:altLabel>"도서관정보서비스위원회"@kor</skos:altLabel>
+                <dc:type>시소러스</dc:type>
+                <skos:altLabel>"규칙 회의록"@kor</skos:altLabel>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000134"/>
+                <skos:altLabel>"계약 매뉴얼"@kor</skos:altLabel>
+                <dc:identifier>T00000000000134</dc:identifier>
+                <dc:title>회의록</dc:title>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <dc:language>kor</dc:language>
+                <skos:altLabel>"민간위탁"@kor</skos:altLabel>
+                <skos:prefLabel>회의록</skos:prefLabel>
+              </rdf:Description>
+            </skos:exactMatch>
+            <dc:type>시소러스</dc:type>
+            <dc:language>kor</dc:language>
+            <dc:title>민간위탁</dc:title>
+            <skos:altLabel>"도서관 위탁"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000099"/>
+            <skos:altLabel>"민간 건축물 내진성능"@kor</skos:altLabel>
+            <skos:altLabel>"도서관 민간위탁"@kor</skos:altLabel>
+            <skos:altLabel>"간담회"@kor</skos:altLabel>
+            <skos:altLabel>"도시공원"@kor</skos:altLabel>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000056"/>
+            <skos:altLabel>"민간위탁 관리지침"@kor</skos:altLabel>
+          </rdf:Description>
+        </skos:exactMatch>
+        <skos:altLabel>"간담회계획"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"자매결연"@kor</skos:altLabel>
+        <skos:prefLabel>간담회</skos:prefLabel>
+        <skos:altLabel>"간담회 결과보고"@kor</skos:altLabel>
+        <dc:identifier>T00000000000056</dc:identifier>
+        <skos:altLabel>"간담회 지급"@kor</skos:altLabel>
+        <skos:altLabel>"직원 간담회"@kor</skos:altLabel>
+        <skos:altLabel>"간담회 개최 계획"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <dc:title>간담회</dc:title>
+        <skos:altLabel>"간담회 비용지급"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000099"/>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000056"/>
+        <skos:altLabel>"간담회 결과"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"간담회비 지급"@kor</skos:altLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+      </rdf:Description>
+    </skos:exactMatch>
+    <dc:identifier>T00000000000099</dc:identifier>
+    <skos:prefLabel>생활임금</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000051"/>
+    <skos:altLabel>"계약심사"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"대청마루"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000099"/>
+    <skos:altLabel>"단체교섭 위임"@kor</skos:altLabel>
+    <dc:title>생활임금</dc:title>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000097">
+        <skos:altLabel>"계약심사 의뢰"@kor</skos:altLabel>
+        <skos:altLabel>"계약심사 결과"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000099"/>
+        <skos:altLabel>"계약심사 처리규칙"@kor</skos:altLabel>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"계약심사 보고"@kor</skos:altLabel>
+        <dc:title>계약심사</dc:title>
+        <skos:prefLabel>계약심사</skos:prefLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000097"/>
+        <dc:date>20170928</dc:date>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dcterms:created>20170926</dcterms:created>
+        <dc:identifier>T00000000000097</dc:identifier>
+        <skos:altLabel>"계약심사 노면표시"@kor</skos:altLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:altLabel>"계약심사 디자인"@kor</skos:altLabel>
+        <skos:altLabel>"계약심사 매뉴얼"@kor</skos:altLabel>
+        <skos:altLabel>"계약심사 대상사업"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"계약심사 계획"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"누리공간"@kor</skos:altLabel>
+    <skos:altLabel>"예산"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000035">
+    <dc:type>시소러스</dc:type>
+    <dc:title>공무직</dc:title>
+    <skos:prefLabel>공무직</skos:prefLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"공무직 임금협약"@kor</skos:altLabel>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000078">
+        <skos:altLabel>"공무직"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000078"/>
+        <skos:prefLabel>신림선</skos:prefLabel>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000067">
+            <dc:type>시소러스</dc:type>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000067"/>
+            <skos:altLabel>"4단계"@kor</skos:altLabel>
+            <skos:altLabel>"직결운행"@kor</skos:altLabel>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <dc:identifier>T00000000000067</dc:identifier>
+            <skos:altLabel>"9호선 3단계"@kor</skos:altLabel>
+            <dc:date>20170928</dc:date>
+            <dc:title>9호선</dc:title>
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+            <skos:altLabel>"921공구"@kor</skos:altLabel>
+            <skos:altLabel>"9호선 혼잡도"@kor</skos:altLabel>
+            <skos:altLabel>"8호선"@kor</skos:altLabel>
+            <skos:altLabel>"증차"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000078"/>
+            <skos:prefLabel>9호선</skos:prefLabel>
+            <skos:altLabel>"3단계"@kor</skos:altLabel>
+            <dcterms:created>20170926</dcterms:created>
+            <dc:language>kor</dc:language>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000105">
+                <skos:altLabel>"도시철도"@kor</skos:altLabel>
+                <skos:altLabel>"지하철 디자인"@kor</skos:altLabel>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <skos:altLabel>"디자인"@kor</skos:altLabel>
+                <skos:altLabel>"대중교통"@kor</skos:altLabel>
+                <skos:altLabel>"가시설"@kor</skos:altLabel>
+                <skos:altLabel>"9호선"@kor</skos:altLabel>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <skos:altLabel>"어린이집"@kor</skos:altLabel>
+                <dc:title>지하철</dc:title>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000067"/>
+                <dc:language>kor</dc:language>
+                <dc:date>20170928</dc:date>
+                <dc:type>시소러스</dc:type>
+                <skos:altLabel>"노사정"@kor</skos:altLabel>
+                <skos:prefLabel>지하철</skos:prefLabel>
+                <skos:altLabel>"923공구"@kor</skos:altLabel>
+                <dc:identifier>T00000000000105</dc:identifier>
+                <skos:exactMatch>
+                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000091">
+                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                    <dc:language>kor</dc:language>
+                    <skos:prefLabel>어린이집</skos:prefLabel>
+                    <skos:altLabel>"공인취소"@kor</skos:altLabel>
+                    <dcterms:created>20170926</dcterms:created>
+                    <dc:type>시소러스</dc:type>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000091"/>
+                    <skos:altLabel>"급식 공동구매"@kor</skos:altLabel>
+                    <skos:altLabel>"농특산물"@kor</skos:altLabel>
+                    <dc:title>어린이집</dc:title>
+                    <skos:altLabel>"공사 시행"@kor</skos:altLabel>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000105"/>
+                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                    <skos:altLabel>"구립어린이집"@kor</skos:altLabel>
+                    <dc:identifier>T00000000000091</dc:identifier>
+                    <skos:altLabel>"국공립 개원행사"@kor</skos:altLabel>
+                    <skos:altLabel>"국공립어린이집"@kor</skos:altLabel>
+                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                    <skos:altLabel>"보육"@kor</skos:altLabel>
+                    <skos:altLabel>"국회의원"@kor</skos:altLabel>
+                    <dc:date>20170928</dc:date>
+                  </rdf:Description>
+                </skos:exactMatch>
+                <skos:altLabel>"지하철 이용객"@kor</skos:altLabel>
+                <dcterms:created>20170926</dcterms:created>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000105"/>
+              </rdf:Description>
+            </skos:exactMatch>
+            <skos:altLabel>"9호선 4단계"@kor</skos:altLabel>
+            <skos:altLabel>"신림선"@kor</skos:altLabel>
+          </rdf:Description>
+        </skos:exactMatch>
+        <skos:altLabel>"마곡중앙공원"@kor</skos:altLabel>
+        <skos:altLabel>"관악ic"@kor</skos:altLabel>
+        <skos:altLabel>"동북선"@kor</skos:altLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:altLabel>"면목선"@kor</skos:altLabel>
+        <skos:altLabel>"9호선"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000035"/>
+        <dc:language>kor</dc:language>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000065">
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000078"/>
+            <skos:altLabel>"신림선"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000065"/>
+            <dc:language>kor</dc:language>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000064">
+                <skos:altLabel>"신정네거리역"@kor</skos:altLabel>
+                <skos:altLabel>"경전철"@kor</skos:altLabel>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <dcterms:created>20170926</dcterms:created>
+                <skos:altLabel>"월드컵대교"@kor</skos:altLabel>
+                <skos:altLabel>"목동힐스테이트"@kor</skos:altLabel>
+                <skos:altLabel>"목동교"@kor</skos:altLabel>
+                <dc:title>제물포터널</dc:title>
+                <skos:altLabel>"경전철 목동선"@kor</skos:altLabel>
+                <skos:altLabel>"서부간선도로"@kor</skos:altLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000065"/>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <skos:altLabel>"신정뉴타운"@kor</skos:altLabel>
+                <dc:language>kor</dc:language>
+                <skos:altLabel>"목동로데오"@kor</skos:altLabel>
+                <skos:altLabel>"신정제일시장"@kor</skos:altLabel>
+                <dc:type>시소러스</dc:type>
+                <dc:identifier>T00000000000064</dc:identifier>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000064"/>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <skos:prefLabel>제물포터널</skos:prefLabel>
+                <dc:date>20170928</dc:date>
+              </rdf:Description>
+            </skos:exactMatch>
+            <skos:altLabel>"경전철 수요"@kor</skos:altLabel>
+            <dc:identifier>T00000000000065</dc:identifier>
+            <dcterms:created>20170926</dcterms:created>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <skos:altLabel>"서계동"@kor</skos:altLabel>
+            <skos:altLabel>"경전철 역명"@kor</skos:altLabel>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <skos:altLabel>"경전철 위례신사선"@kor</skos:altLabel>
+            <skos:altLabel>"경전철 목동선"@kor</skos:altLabel>
+            <dc:type>시소러스</dc:type>
+            <skos:altLabel>"동북선"@kor</skos:altLabel>
+            <skos:exactMatch>
+              <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000082">
+                <skos:altLabel>"위례선"@kor</skos:altLabel>
+                <dc:identifier>T00000000000082</dc:identifier>
+                <skos:note>2015년, 2016년 내부검색어</skos:note>
+                <skos:altLabel>"위례"@kor</skos:altLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000082"/>
+                <dc:language>kor</dc:language>
+                <skos:altLabel>"위례신사경전철"@kor</skos:altLabel>
+                <skos:altLabel>"위례선 트램"@kor</skos:altLabel>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000065"/>
+                <dc:type>시소러스</dc:type>
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                <skos:altLabel>"위례신사 경전철"@kor</skos:altLabel>
+                <skos:altLabel>"문정"@kor</skos:altLabel>
+                <skos:exactMatch>
+                  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000026">
+                    <skos:altLabel>"장지지하차도"@kor</skos:altLabel>
+                    <skos:altLabel>"6600번 공항버스"@kor</skos:altLabel>
+                    <dc:title>위례</dc:title>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000082"/>
+                    <skos:note>2015년, 2016년 내부검색어</skos:note>
+                    <skos:altLabel>"위례선"@kor</skos:altLabel>
+                    <skos:altLabel>"위례신사선"@kor</skos:altLabel>
+                    <dc:identifier>T00000000000026</dc:identifier>
+                    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                    <skos:altLabel>"북위례"@kor</skos:altLabel>
+                    <skos:altLabel>"차고지"@kor</skos:altLabel>
+                    <skos:altLabel>"장지역"@kor</skos:altLabel>
+                    <skos:exactMatch>
+                      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000077">
+                        <skos:altLabel>"문정지구 3-5"@kor</skos:altLabel>
+                        <dc:type>시소러스</dc:type>
+                        <dc:language>kor</dc:language>
+                        <skos:altLabel>"문정지구"@kor</skos:altLabel>
+                        <skos:altLabel>"위례"@kor</skos:altLabel>
+                        <dc:date>20170928</dc:date>
+                        <skos:prefLabel>문정</skos:prefLabel>
+                        <dc:identifier>T00000000000077</dc:identifier>
+                        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000077"/>
+                        <skos:altLabel>"훼밀리"@kor</skos:altLabel>
+                        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000082"/>
+                        <skos:altLabel>"문정136"@kor</skos:altLabel>
+                        <skos:altLabel>"문정 열람"@kor</skos:altLabel>
+                        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000026"/>
+                        <skos:note>2015년, 2016년 내부검색어</skos:note>
+                        <dcterms:created>20170926</dcterms:created>
+                        <skos:altLabel>"위례신사선"@kor</skos:altLabel>
+                        <skos:altLabel>"특전사"@kor</skos:altLabel>
+                        <dc:title>문정</dc:title>
+                      </rdf:Description>
+                    </skos:exactMatch>
+                    <dcterms:created>20170926</dcterms:created>
+                    <dc:language>kor</dc:language>
+                    <skos:altLabel>"6300"@kor</skos:altLabel>
+                    <dc:type>시소러스</dc:type>
+                    <skos:altLabel>"위례선 트램"@kor</skos:altLabel>
+                    <skos:altLabel>"위례신도시"@kor</skos:altLabel>
+                    <dc:date>20170928</dc:date>
+                    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+                    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000026"/>
+                    <skos:prefLabel>위례</skos:prefLabel>
+                  </rdf:Description>
+                </skos:exactMatch>
+                <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000077"/>
+                <dcterms:created>20170926</dcterms:created>
+                <dc:title>위례신사선</dc:title>
+                <skos:prefLabel>위례신사선</skos:prefLabel>
+                <skos:altLabel>"문정 5-5"@kor</skos:altLabel>
+                <skos:altLabel>"우남역"@kor</skos:altLabel>
+                <dc:date>20170928</dc:date>
+                <skos:altLabel>"위례경전철"@kor</skos:altLabel>
+                <skos:altLabel>"경전철"@kor</skos:altLabel>
+              </rdf:Description>
+            </skos:exactMatch>
+            <dc:title>경전철</dc:title>
+            <skos:altLabel>"우이"@kor</skos:altLabel>
+            <dc:date>20170928</dc:date>
+            <skos:prefLabel>경전철</skos:prefLabel>
+            <skos:altLabel>"경전철 중단"@kor</skos:altLabel>
+            <skos:altLabel>"지명위원회"@kor</skos:altLabel>
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+          </rdf:Description>
+        </skos:exactMatch>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"신림2구역"@kor</skos:altLabel>
+        <dc:title>신림선</dc:title>
+        <skos:altLabel>"교통영향"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"신림선 결정"@kor</skos:altLabel>
+        <skos:altLabel>"설계변경"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <dc:identifier>T00000000000078</dc:identifier>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"공무직 급여"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"공무직 호봉"@kor</skos:altLabel>
+    <dc:identifier>T00000000000035</dc:identifier>
+    <skos:altLabel>"공무직 채용"@kor</skos:altLabel>
+    <skos:altLabel>"병원"@kor</skos:altLabel>
+    <skos:altLabel>"공무직 공고"@kor</skos:altLabel>
+    <skos:altLabel>"공무직 관리규정"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000035"/>
+    <skos:altLabel>"공공미술"@kor</skos:altLabel>
+    <skos:altLabel>"공무직 급여 지급 계획"@kor</skos:altLabel>
+    <skos:altLabel>"공무직 고용승계"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000116">
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"이명희"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"찾아가는 동 마을복지센터"@kor</skos:altLabel>
+    <skos:altLabel>"다기능"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000116"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"더함복지상담사"@kor</skos:altLabel>
+    <dc:identifier>T00000000000116</dc:identifier>
+    <skos:altLabel>"김기곤"@kor</skos:altLabel>
+    <skos:altLabel>"권중석"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000031">
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000116"/>
+        <skos:altLabel>"마을 임기제"@kor</skos:altLabel>
+        <skos:altLabel>"찾아가는 동주민센터 2단계"@kor</skos:altLabel>
+        <skos:altLabel>"더함복지상담사"@kor</skos:altLabel>
+        <skos:altLabel>"찾아가는 동주민센터 계획"@kor</skos:altLabel>
+        <dc:title>찾아가는 동주민센터</dc:title>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dcterms:created>20170926</dcterms:created>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:prefLabel>찾아가는 동주민센터</skos:prefLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000031"/>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"추진지원단"@kor</skos:altLabel>
+        <dc:identifier>T00000000000031</dc:identifier>
+        <skos:altLabel>"복지플래너"@kor</skos:altLabel>
+        <skos:altLabel>"장애인 콜택시"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"찾동"@kor</skos:altLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"찾아가는 동주민센터3단계"@kor</skos:altLabel>
+        <skos:altLabel>"장애인콜택시"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <dc:title>동마을복지센터</dc:title>
+    <skos:altLabel>"동 마을복지센터 사업운영 안내"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"찾아가는 동주민센터"@kor</skos:altLabel>
+    <skos:prefLabel>동마을복지센터</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000128">
+    <skos:altLabel>"유동인구조사결과"@kor</skos:altLabel>
+    <skos:altLabel>"지하철 유동인구"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"유동인구 조사보고서"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"동대문 유동인구"@kor</skos:altLabel>
+    <skos:altLabel>"상권분석"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000128"/>
+    <dc:type>시소러스</dc:type>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"만개지점"@kor</skos:altLabel>
+    <skos:altLabel>"인구동선"@kor</skos:altLabel>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000117">
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:identifier>T00000000000117</dc:identifier>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"동별 인구"@kor</skos:altLabel>
+        <skos:altLabel>"1인"@kor</skos:altLabel>
+        <skos:altLabel>"국민기초"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000117"/>
+        <dc:date>20170928</dc:date>
+        <dc:language>kor</dc:language>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"등록인구통계"@kor</skos:altLabel>
+        <skos:altLabel>"노인"@kor</skos:altLabel>
+        <skos:altLabel>"세대별 인구"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000128"/>
+        <skos:prefLabel>인구</skos:prefLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:altLabel>"유동인구"@kor</skos:altLabel>
+        <skos:altLabel>"의료"@kor</skos:altLabel>
+        <dc:title>인구</dc:title>
+        <skos:altLabel>"교통사고"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"가로수길"@kor</skos:altLabel>
+    <skos:altLabel>"유동 인구"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:title>유동인구</dc:title>
+    <dc:language>kor</dc:language>
+    <dc:identifier>T00000000000128</dc:identifier>
+    <skos:prefLabel>유동인구</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000063">
+    <skos:altLabel>"석유비축"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:date>20170928</dc:date>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"박영석기념관"@kor</skos:altLabel>
+    <dc:identifier>T00000000000063</dc:identifier>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000058">
+        <dc:type>시소러스</dc:type>
+        <dc:identifier>T00000000000058</dc:identifier>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000063"/>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"상암 롯데"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"마포석유비축"@kor</skos:altLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:prefLabel>상암</skos:prefLabel>
+        <skos:altLabel>"dmc랜드마크"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000058"/>
+        <skos:altLabel>"dmc"@eng</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:altLabel>"상생"@kor</skos:altLabel>
+        <skos:altLabel>"성암로"@kor</skos:altLabel>
+        <dc:title>상암</dc:title>
+        <skos:altLabel>"경의선 선형의 숲"@kor</skos:altLabel>
+        <skos:altLabel>"상암dmc"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"상암 랜드마크"@kor</skos:altLabel>
+        <skos:altLabel>"마포석유비축기지"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:prefLabel>dmc</skos:prefLabel>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000127">
+        <skos:altLabel>"가좌역"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"경의선 선형의 숲"@kor</skos:altLabel>
+        <dc:title>경의선숲길</dc:title>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000127"/>
+        <skos:altLabel>"성산천가도교"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000063"/>
+        <skos:altLabel>"dmc"@eng</skos:altLabel>
+        <skos:altLabel>"경의선숲길 안내판"@kor</skos:altLabel>
+        <skos:prefLabel>경의선숲길</skos:prefLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:type>시소러스</dc:type>
+        <dc:identifier>T00000000000127</dc:identifier>
+        <dc:language>kor</dc:language>
+        <skos:exactMatch>
+          <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000068">
+            <skos:altLabel>"다문화가정 협약"@kor</skos:altLabel>
+            <skos:altLabel>"경의선숲길"@kor</skos:altLabel>
+            <skos:altLabel>"리조트"@kor</skos:altLabel>
+            <skos:altLabel>"협약식"@kor</skos:altLabel>
+            <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+            <dc:title>협약</dc:title>
+            <dc:identifier>T00000000000068</dc:identifier>
+            <skos:prefLabel>협약</skos:prefLabel>
+            <dc:type>시소러스</dc:type>
+            <dc:date>20170928</dc:date>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000068"/>
+            <dcterms:created>20170926</dcterms:created>
+            <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+            <skos:altLabel>"녹색발전소 협약"@kor</skos:altLabel>
+            <skos:altLabel>"기부채납 협약"@kor</skos:altLabel>
+            <skos:altLabel>"협약 계획"@kor</skos:altLabel>
+            <dc:language>kor</dc:language>
+            <skos:altLabel>"공연협약"@kor</skos:altLabel>
+            <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000127"/>
+            <skos:altLabel>"다둥이"@kor</skos:altLabel>
+            <skos:altLabel>"공동모금회"@kor</skos:altLabel>
+            <skos:note>2015년, 2016년 내부검색어</skos:note>
+          </rdf:Description>
+        </skos:exactMatch>
+        <skos:altLabel>"경의선 선형의숲"@kor</skos:altLabel>
+        <skos:altLabel>"경의선선형"@kor</skos:altLabel>
+        <skos:altLabel>"성암로"@kor</skos:altLabel>
+        <skos:altLabel>"경의선 숲길"@kor</skos:altLabel>
+        <skos:altLabel>"경의선선형의숲"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+      </rdf:Description>
+    </skos:exactMatch>
+    <dc:title>dmc</dc:title>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"상임"@kor</skos:altLabel>
+    <skos:altLabel>"상암"@kor</skos:altLabel>
+    <skos:altLabel>"상암dmc"@kor</skos:altLabel>
+    <skos:altLabel>"마포석유비축기지"@kor</skos:altLabel>
+    <skos:altLabel>"dmc랜드마크"@kor</skos:altLabel>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"월드컵파크"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000063"/>
+    <skos:altLabel>"dmc 페스티벌"@kor</skos:altLabel>
+    <skos:altLabel>"에스플렉스센터"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000092">
+    <dc:title>도시계획위원회</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000122">
+        <skos:altLabel>"도시계획위원회"@kor</skos:altLabel>
+        <dc:title>심의</dc:title>
+        <dc:language>kor</dc:language>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:altLabel>"재해대처계획"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000092"/>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000122"/>
+        <skos:altLabel>"공공디자인"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <dc:identifier>T00000000000122</dc:identifier>
+        <skos:altLabel>"고척 심의"@kor</skos:altLabel>
+        <skos:altLabel>"계약심의"@kor</skos:altLabel>
+        <skos:altLabel>"서면심의"@kor</skos:altLabel>
+        <skos:prefLabel>심의</skos:prefLabel>
+        <skos:altLabel>"경관심의"@kor</skos:altLabel>
+        <skos:altLabel>"건축위원회 심의"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:altLabel>"건축심의"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:altLabel>"국회대로"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"반포"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000092"/>
+    <skos:prefLabel>도시계획위원회</skos:prefLabel>
+    <skos:altLabel>"도시건축공동위원회"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"도시계획위원회 소위원회"@kor</skos:altLabel>
+    <skos:altLabel>"도시계획위원회 반포"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:identifier>T00000000000092</dc:identifier>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"도시계획위원회 명단"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000045">
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"제27차 좋은빛"@kor</skos:altLabel>
+    <skos:altLabel>"좋은빛심의"@kor</skos:altLabel>
+    <skos:altLabel>"광진구"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dc:identifier>T00000000000045</dc:identifier>
+    <skos:altLabel>"빛공해"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"제21차좋은빛"@kor</skos:altLabel>
+    <skos:altLabel>"경관"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000113">
+        <skos:altLabel>"인공조명"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000113"/>
+        <dc:type>시소러스</dc:type>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:altLabel>"조명"@kor</skos:altLabel>
+        <dc:title>빛공해</dc:title>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000045"/>
+        <dc:identifier>T00000000000113</dc:identifier>
+        <skos:prefLabel>빛공해</skos:prefLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:altLabel>"빛공해방지위원회"@kor</skos:altLabel>
+        <skos:altLabel>"좋은빛위원회"@kor</skos:altLabel>
+        <skos:altLabel>"가로등 빛공해"@kor</skos:altLabel>
+        <skos:altLabel>"경관"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"빛 공해"@kor</skos:altLabel>
+        <skos:altLabel>"조명환경"@kor</skos:altLabel>
+        <skos:altLabel>"공고"@kor</skos:altLabel>
+        <skos:altLabel>"좋은빛"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000045"/>
+    <skos:prefLabel>좋은빛</skos:prefLabel>
+    <dc:title>좋은빛</dc:title>
+    <skos:altLabel>"제9차 좋은빛"@kor</skos:altLabel>
+    <skos:altLabel>"좋은빛위원회"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000114">
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000114"/>
+    <skos:altLabel>"기록물관리"@kor</skos:altLabel>
+    <dc:identifier>T00000000000114</dc:identifier>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>서울역사편찬원</skos:prefLabel>
+    <skos:altLabel>"송철호"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"상용소프트웨어"@kor</skos:altLabel>
+    <skos:altLabel>"서울역사편찬원 기간제"@kor</skos:altLabel>
+    <skos:altLabel>"구술"@kor</skos:altLabel>
+    <dc:title>서울역사편찬원</dc:title>
+    <dc:type>시소러스</dc:type>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000115">
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:identifier>T00000000000115</dc:identifier>
+        <skos:altLabel>"서대문"@kor</skos:altLabel>
+        <dc:date>20170928</dc:date>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000114"/>
+        <skos:altLabel>"청량리"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"송철호"@kor</skos:altLabel>
+        <skos:altLabel>"역사문화재과"@kor</skos:altLabel>
+        <skos:altLabel>"대한민국역사박물관"@kor</skos:altLabel>
+        <skos:altLabel>"남가영"@kor</skos:altLabel>
+        <skos:altLabel>"기간제 연구원"@kor</skos:altLabel>
+        <dc:title>서울역사박물관</dc:title>
+        <skos:altLabel>"근현대자료조사 및 전시분야"@kor</skos:altLabel>
+        <skos:prefLabel>서울역사박물관</skos:prefLabel>
+        <skos:altLabel>"백인제"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:altLabel>"서울역사편찬원"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000115"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"사료관리시스템"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"서울역사편찬원 구술"@kor</skos:altLabel>
+    <skos:altLabel>"서울역사박물관"@kor</skos:altLabel>
+    <skos:altLabel>"근로자의날"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000084">
+    <dcterms:created>20170926</dcterms:created>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000111">
+        <skos:altLabel>"가로주택정비사업"@kor</skos:altLabel>
+        <skos:altLabel>"가리봉 오거리"@kor</skos:altLabel>
+        <skos:prefLabel>가리봉</skos:prefLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <skos:altLabel>"도시재생"@kor</skos:altLabel>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <skos:altLabel>"가리봉지구"@kor</skos:altLabel>
+        <dc:identifier>T00000000000111</dc:identifier>
+        <skos:altLabel>"구로고가"@kor</skos:altLabel>
+        <dcterms:created>20170926</dcterms:created>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"고가차도"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000111"/>
+        <dc:language>kor</dc:language>
+        <dc:title>가리봉</dc:title>
+        <skos:altLabel>"g밸리"@kor</skos:altLabel>
+        <skos:altLabel>"가산동"@kor</skos:altLabel>
+        <skos:altLabel>"산업단지"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000084"/>
+      </rdf:Description>
+    </skos:exactMatch>
+    <skos:altLabel>"노인일자리"@kor</skos:altLabel>
+    <dc:identifier>T00000000000084</dc:identifier>
+    <skos:altLabel>"도시재생전략"@kor</skos:altLabel>
+    <skos:altLabel>"도시재생 희망지"@kor</skos:altLabel>
+    <skos:altLabel>"도시계획위원회 결과"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000084"/>
+    <skos:altLabel>"도시재생활성화"@kor</skos:altLabel>
+    <skos:altLabel>"도시브랜드"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:prefLabel>도시재생</skos:prefLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"공동체"@kor</skos:altLabel>
+    <dc:title>도시재생</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000049">
+    <skos:prefLabel>자전거</skos:prefLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"고령자안전교육"@kor</skos:altLabel>
+    <skos:altLabel>"자활"@kor</skos:altLabel>
+    <skos:altLabel>"무인자전거대여소"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000049"/>
+    <skos:altLabel>"생태공원"@kor</skos:altLabel>
+    <dc:identifier>T00000000000049</dc:identifier>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"공공자전거"@kor</skos:altLabel>
+    <dc:title>자전거</dc:title>
+    <skos:altLabel>"9호선 자전거"@kor</skos:altLabel>
+    <skos:altLabel>"안전교육"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"북부도로사업소"@kor</skos:altLabel>
+    <skos:altLabel>"방치 자전거"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"따릉이"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:exactMatch>
+      <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000108">
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000108"/>
+        <dc:date>20170928</dc:date>
+        <skos:altLabel>"복지관"@kor</skos:altLabel>
+        <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+        <dc:title>자활</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+        <skos:prefLabel>자활</skos:prefLabel>
+        <skos:altLabel>"자활 주요업무 보고"@kor</skos:altLabel>
+        <dc:identifier>T00000000000108</dc:identifier>
+        <dcterms:created>20170926</dcterms:created>
+        <skos:altLabel>"남북협력"@kor</skos:altLabel>
+        <skos:altLabel>"표창"@kor</skos:altLabel>
+        <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000049"/>
+        <skos:altLabel>"사회적기업"@kor</skos:altLabel>
+        <skos:altLabel>"사회복지"@kor</skos:altLabel>
+        <skos:note>2015년, 2016년 내부검색어</skos:note>
+        <dc:language>kor</dc:language>
+        <skos:altLabel>"청소년자활"@kor</skos:altLabel>
+        <dc:type>시소러스</dc:type>
+        <skos:altLabel>"성과평가"@kor</skos:altLabel>
+        <skos:altLabel>"노숙"@kor</skos:altLabel>
+        <skos:altLabel>"자활 유공자"@kor</skos:altLabel>
+      </rdf:Description>
+    </skos:exactMatch>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000059">
+    <skos:altLabel>"한남뉴타운"@kor</skos:altLabel>
+    <skos:altLabel>"용산공원"@kor</skos:altLabel>
+    <skos:altLabel>"한남3재정비"@kor</skos:altLabel>
+    <skos:altLabel>"신분당선"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:identifier>T00000000000059</dc:identifier>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000059"/>
+    <skos:altLabel>"위례과천선"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:date>20170928</dc:date>
+    <dc:title>한남재정비</dc:title>
+    <dc:type>시소러스</dc:type>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>한남재정비</skos:prefLabel>
+    <skos:altLabel>"용산"@kor</skos:altLabel>
+    <skos:altLabel>"송전탑"@kor</skos:altLabel>
+    <skos:altLabel>"유엔사"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000104">
+    <skos:altLabel>"6차 공사 준공"@kor</skos:altLabel>
+    <skos:altLabel>"921공구"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"922"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"920공구"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"918공구"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000104"/>
+    <skos:altLabel>"공구"@kor</skos:altLabel>
+    <skos:altLabel>"923공구"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"919공구"@kor</skos:altLabel>
+    <skos:altLabel>"917공구"@kor</skos:altLabel>
+    <dc:identifier>T00000000000104</dc:identifier>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:prefLabel>922공구</skos:prefLabel>
+    <skos:altLabel>"5급"@kor</skos:altLabel>
+    <dc:title>922공구</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000075">
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"규제혁신을 통한 푸드트럭 활성화"@kor</skos:altLabel>
+    <skos:altLabel>"음식판매자동차"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:prefLabel>푸드트럭</skos:prefLabel>
+    <skos:altLabel>"음식자동차"@kor</skos:altLabel>
+    <skos:altLabel>"서울시 푸드트럭"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000075"/>
+    <skos:altLabel>"사회적 기업"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:identifier>T00000000000075</dc:identifier>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"소송실무"@kor</skos:altLabel>
+    <dc:title>푸드트럭</dc:title>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"문서스캔"@kor</skos:altLabel>
+    <skos:altLabel>"야시장"@kor</skos:altLabel>
+    <skos:altLabel>"노점허가"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000120">
+    <skos:prefLabel>상온</skos:prefLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"작업일보"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000120"/>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:type>시소러스</dc:type>
+    <dc:title>상온</dc:title>
+    <skos:altLabel>"강동소방서"@kor</skos:altLabel>
+    <skos:altLabel>"입회시험"@kor</skos:altLabel>
+    <dc:identifier>T00000000000120</dc:identifier>
+    <skos:altLabel>"상온아스팔트혼합물"@kor</skos:altLabel>
+    <skos:altLabel>"품질시험"@kor</skos:altLabel>
+    <skos:altLabel>"포트홀"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000121">
+    <dc:type>시소러스</dc:type>
+    <dc:identifier>T00000000000121</dc:identifier>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000121"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:title>수도자재관리센터</dc:title>
+    <skos:prefLabel>수도자재관리센터</skos:prefLabel>
+    <dc:date>20170928</dc:date>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"누수방지과"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000088">
+    <skos:altLabel>"뚝섬 수영장"@kor</skos:altLabel>
+    <skos:altLabel>"부영"@kor</skos:altLabel>
+    <skos:prefLabel>뚝섬</skos:prefLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"성수전략정비"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:title>뚝섬</dc:title>
+    <skos:altLabel>"건축심의"@kor</skos:altLabel>
+    <skos:altLabel>"뚝섬 체육시설"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"서울숲"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000088"/>
+    <skos:altLabel>"뚝섬 승마"@kor</skos:altLabel>
+    <dc:identifier>T00000000000088</dc:identifier>
+    <skos:altLabel>"지구단위"@kor</skos:altLabel>
+    <skos:altLabel>"뚝섬주변지역"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"건축(소)위원회"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000133">
+    <skos:altLabel>"시설관리팀업무분장"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000133"/>
+    <skos:altLabel>"통신관리팀업무분장"@kor</skos:altLabel>
+    <skos:altLabel>"별관운영업무분장"@kor</skos:altLabel>
+    <skos:altLabel>"별관운영팀업무분장"@kor</skos:altLabel>
+    <skos:altLabel>"서소문방호직원"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"청사운영1팀"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"서소문방호"@kor</skos:altLabel>
+    <skos:prefLabel>별관운영팀</skos:prefLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:title>별관운영팀</dc:title>
+    <dc:language>kor</dc:language>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"인재기획행정팀"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:identifier>T00000000000133</dc:identifier>
+    <dc:type>시소러스</dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000048">
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"풍납토성 복원"@kor</skos:altLabel>
+    <skos:altLabel>"올림픽대교남단 램프공사"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:type>시소러스</dc:type>
+    <dc:date>20170928</dc:date>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"대법원"@kor</skos:altLabel>
+    <skos:altLabel>"풍납동"@kor</skos:altLabel>
+    <skos:altLabel>"봉사하는 청소년 동아리 누리알찬"@kor</skos:altLabel>
+    <skos:altLabel>"삼표레미콘"@kor</skos:altLabel>
+    <skos:prefLabel>풍납토성</skos:prefLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"풍납토성 조기보상"@kor</skos:altLabel>
+    <skos:altLabel>"풍납동 삼표레미콘"@kor</skos:altLabel>
+    <skos:altLabel>"사회주택"@kor</skos:altLabel>
+    <dc:title>풍납토성</dc:title>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000048"/>
+    <skos:altLabel>"세계유산 등재 종합계획"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:identifier>T00000000000048</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000080">
+    <skos:altLabel>"경보등"@kor</skos:altLabel>
+    <dc:identifier>T00000000000080</dc:identifier>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000080"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"실시간cctv"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"어린이"@kor</skos:altLabel>
+    <skos:altLabel>"영상 지침"@kor</skos:altLabel>
+    <dc:language>eng</dc:language>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"교통 cctv"@kor</skos:altLabel>
+    <skos:altLabel>"성북구 cctv"@kor</skos:altLabel>
+    <skos:altLabel>"무인경비계획"@kor</skos:altLabel>
+    <skos:altLabel>"공원"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:prefLabel>cctv</skos:prefLabel>
+    <skos:altLabel>"영상 내부통제시스템"@kor</skos:altLabel>
+    <skos:altLabel>"cctv 설치"@kor</skos:altLabel>
+    <dc:title>cctv</dc:title>
+    <dc:date>20170928</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000052">
+    <skos:altLabel>"간부공무원 워크숍"@kor</skos:altLabel>
+    <dc:title>워크숍</dc:title>
+    <skos:altLabel>"워크숍 계획"@kor</skos:altLabel>
+    <skos:altLabel>"공유 워크숍"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"연찬회"@kor</skos:altLabel>
+    <skos:altLabel>"공유재산 워크숍"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:identifier>T00000000000052</dc:identifier>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"직원 워크숍"@kor</skos:altLabel>
+    <skos:altLabel>"워크숍 결과"@kor</skos:altLabel>
+    <skos:altLabel>"워크샵"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>워크숍</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000052"/>
+    <skos:altLabel>"계약 공무원"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000069">
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000069"/>
+    <skos:altLabel>"계약 매뉴얼"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"개인정보 유출 대응"@kor</skos:altLabel>
+    <skos:altLabel>"가이드북"@kor</skos:altLabel>
+    <skos:altLabel>"건축물 매뉴얼"@kor</skos:altLabel>
+    <skos:prefLabel>매뉴얼</skos:prefLabel>
+    <skos:altLabel>"거버넌스"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:date>20170928</dc:date>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"개인대응수칙"@kor</skos:altLabel>
+    <skos:altLabel>"매뉴얼 제작"@kor</skos:altLabel>
+    <skos:altLabel>"재난 매뉴얼"@kor</skos:altLabel>
+    <skos:altLabel>"메뉴얼"@kor</skos:altLabel>
+    <dc:title>매뉴얼</dc:title>
+    <skos:altLabel>"지침"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:identifier>T00000000000069</dc:identifier>
+    <dc:language>kor</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000057">
+    <skos:altLabel>"감사결과 보고"@kor</skos:altLabel>
+    <skos:altLabel>"지표관리"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000057"/>
+    <skos:altLabel>"사고"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"감사 조치"@kor</skos:altLabel>
+    <skos:altLabel>"감사 운영"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"감사계획"@kor</skos:altLabel>
+    <skos:altLabel>"감사기본계획"@kor</skos:altLabel>
+    <dc:identifier>T00000000000057</dc:identifier>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:date>20170928</dc:date>
+    <skos:prefLabel>감사</skos:prefLabel>
+    <skos:altLabel>"시설관리공단"@kor</skos:altLabel>
+    <skos:altLabel>"감사결과"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:title>감사</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000126">
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"서남물재생"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:date>20170928</dc:date>
+    <skos:prefLabel>음식물</skos:prefLabel>
+    <skos:altLabel>"대형공사"@kor</skos:altLabel>
+    <skos:altLabel>"음폐수"@kor</skos:altLabel>
+    <skos:altLabel>"감량"@kor</skos:altLabel>
+    <skos:altLabel>"납부필증"@kor</skos:altLabel>
+    <skos:altLabel>"마포자원회수"@kor</skos:altLabel>
+    <skos:altLabel>"하수슬러지"@kor</skos:altLabel>
+    <skos:altLabel>"음식물류폐기물"@kor</skos:altLabel>
+    <skos:altLabel>"음식"@kor</skos:altLabel>
+    <dc:identifier>T00000000000126</dc:identifier>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"서남"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dc:title>음식물</dc:title>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000126"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000029">
+    <skos:altLabel>"별관운영팀업무분장"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:date>20170928</dc:date>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"민방위경보통제소공직기강확립"@kor</skos:altLabel>
+    <skos:altLabel>"박효신"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"민방위경보통제소워크숍"@kor</skos:altLabel>
+    <dc:identifier>T00000000000029</dc:identifier>
+    <skos:prefLabel>민방위경보통제소</skos:prefLabel>
+    <skos:altLabel>"문철영"@kor</skos:altLabel>
+    <skos:altLabel>"민방위경보통제소결과"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"정기화"@kor</skos:altLabel>
+    <skos:altLabel>"종합상황실1팀"@kor</skos:altLabel>
+    <dc:title>민방위경보통제소</dc:title>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:language>kor</dc:language>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000085">
+    <skos:altLabel>"주민참여예산 운영계획"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>주민참여예산</skos:prefLabel>
+    <skos:altLabel>"주민참여"@kor</skos:altLabel>
+    <dc:title>주민참여예산</dc:title>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"주민참여예산위원회"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"보조금심의"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"복지 주민참여예산"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"사회적기업"@kor</skos:altLabel>
+    <skos:altLabel>"보조금 정산 지침"@kor</skos:altLabel>
+    <skos:altLabel>"주민참여예산 검토"@kor</skos:altLabel>
+    <dc:identifier>T00000000000085</dc:identifier>
+    <skos:altLabel>"주민참여예산 계획"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000085"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000090">
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:language>kor</dc:language>
+    <dc:title>서울소방본부</dc:title>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"서울앱창업센터 계획"@kor</skos:altLabel>
+    <dc:identifier>T00000000000090</dc:identifier>
+    <skos:prefLabel>서울소방본부</skos:prefLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"sadasd"@eng</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000090"/>
+    <skos:altLabel>"출동간식비"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000046">
+    <skos:altLabel>"우수사례"@kor</skos:altLabel>
+    <skos:altLabel>"견학"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"관외출장보고서"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:prefLabel>벤치마킹</skos:prefLabel>
+    <skos:altLabel>"고양이"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:language>kor</dc:language>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:identifier>T00000000000046</dc:identifier>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"건립 벤치마킹"@kor</skos:altLabel>
+    <skos:altLabel>"공원 벤치마킹"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"해외벤치마킹"@kor</skos:altLabel>
+    <skos:altLabel>"꽃할매네"@kor</skos:altLabel>
+    <skos:altLabel>"광고물 우수"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000046"/>
+    <skos:altLabel>"벤치마킹 결과보고"@kor</skos:altLabel>
+    <dc:title>벤치마킹</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000103">
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:title>미분양</dc:title>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:prefLabel>미분양</skos:prefLabel>
+    <skos:altLabel>"국회의원"@kor</skos:altLabel>
+    <skos:altLabel>"고덕시영미분양"@kor</skos:altLabel>
+    <skos:altLabel>"미분양아파트"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dc:date>20170928</dc:date>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"미분양아파트현황"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000103"/>
+    <skos:altLabel>"분양가"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:identifier>T00000000000103</dc:identifier>
+    <skos:altLabel>"국토교통부"@kor</skos:altLabel>
+    <skos:altLabel>"고양이"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000050">
+    <skos:altLabel>"기초소방시설 플래카드"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"고객만족 특수시책"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"개선"@kor</skos:altLabel>
+    <skos:altLabel>"공무원 복지"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"노인복지"@kor</skos:altLabel>
+    <skos:altLabel>"기초소방시설 설치"@kor</skos:altLabel>
+    <skos:altLabel>"기초소방시설"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:identifier>T00000000000050</dc:identifier>
+    <skos:altLabel>"시책"@kor</skos:altLabel>
+    <dc:title>특수시책</dc:title>
+    <skos:altLabel>"긴급지원"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"협의회"@kor</skos:altLabel>
+    <skos:prefLabel>특수시책</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000050"/>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000074">
+    <skos:altLabel>"종묘광장"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:date>20170928</dc:date>
+    <dc:title>계약심사결과</dc:title>
+    <dc:language>kor</dc:language>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000074"/>
+    <skos:altLabel>"계약심사 결과"@kor</skos:altLabel>
+    <dc:identifier>T00000000000074</dc:identifier>
+    <skos:prefLabel>계약심사결과</skos:prefLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"설계변경 계약심사결과"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000131">
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"교통지도과"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"실정보고 검토"@kor</skos:altLabel>
+    <dc:title>상수도사업본부</dc:title>
+    <skos:altLabel>"상수도사업본부 직인날인"@kor</skos:altLabel>
+    <skos:altLabel>"안전"@kor</skos:altLabel>
+    <skos:prefLabel>상수도사업본부</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000131"/>
+    <skos:altLabel>"상수도본부장"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"상수도사업본부 6급이하"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:identifier>T00000000000131</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000109">
+    <skos:prefLabel>치매</skos:prefLabel>
+    <dc:type>시소러스</dc:type>
+    <dc:language>kor</dc:language>
+    <dc:identifier>T00000000000109</dc:identifier>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"치매 프로그램"@kor</skos:altLabel>
+    <skos:altLabel>"치매 운영지침"@kor</skos:altLabel>
+    <skos:altLabel>"독서"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000109"/>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:title>치매</dc:title>
+    <dc:date>20170928</dc:date>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"광역치매"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000055">
+    <skos:altLabel>"레드휘슬"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"간부청렴도"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000055"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"청렴대책"@kor</skos:altLabel>
+    <skos:altLabel>"청렴시책"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"감사 실시 만족도"@kor</skos:altLabel>
+    <dc:title>청렴</dc:title>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"청렴계획"@kor</skos:altLabel>
+    <skos:altLabel>"건강"@kor</skos:altLabel>
+    <skos:altLabel>"청렴 계획"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>청렴</skos:prefLabel>
+    <skos:altLabel>"청렴도"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"청렴 시책"@kor</skos:altLabel>
+    <dc:identifier>T00000000000055</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000124">
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"남부도로사업소청사"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"석수역세권"@kor</skos:altLabel>
+    <skos:altLabel>"남부도로사업소 공무직"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"진성연립"@kor</skos:altLabel>
+    <skos:altLabel>"남부도로사업소 신동헌"@kor</skos:altLabel>
+    <skos:altLabel>"남부도로사업소 신축"@kor</skos:altLabel>
+    <dc:title>남부도로사업소</dc:title>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:identifier>T00000000000124</dc:identifier>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"남부도로사업소 이전"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000124"/>
+    <skos:altLabel>"거상센스빌"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"남부도로사업소 청사"@kor</skos:altLabel>
+    <skos:prefLabel>남부도로사업소</skos:prefLabel>
+    <skos:altLabel>"구일역"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000027">
+    <skos:altLabel>"대우조선"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"마곡지구"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"남북"@kor</skos:altLabel>
+    <skos:altLabel>"공항철도 마곡역사 신축 기타공사"@kor</skos:altLabel>
+    <skos:prefLabel>마곡</skos:prefLabel>
+    <dc:identifier>T00000000000027</dc:identifier>
+    <skos:altLabel>"마곡산업단지"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <dc:title>마곡</dc:title>
+    <skos:altLabel>"집단에너지"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000027"/>
+    <skos:altLabel>"42903"@kor</skos:altLabel>
+    <skos:altLabel>"마곡산업"@kor</skos:altLabel>
+    <skos:altLabel>"강서경찰서"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"강서"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000136">
+    <skos:altLabel>"공공기관 LED"@kor</skos:altLabel>
+    <skos:altLabel>"배광"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000136"/>
+    <skos:altLabel>"보급기준"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"광원"@kor</skos:altLabel>
+    <skos:altLabel>"LED 공사"@kor</skos:altLabel>
+    <skos:altLabel>"보안등"@kor</skos:altLabel>
+    <skos:prefLabel>LED</skos:prefLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"표준"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"냉동기"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:title>LED</dc:title>
+    <skos:altLabel>"공공기관_LED조명_보급기준"@kor</skos:altLabel>
+    <dc:identifier>T00000000000136</dc:identifier>
+    <dc:language>eng</dc:language>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:date>20170928</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000039">
+    <skos:altLabel>"공정무역"@kor</skos:altLabel>
+    <skos:altLabel>"노선팀 업무분장"@kor</skos:altLabel>
+    <skos:altLabel>"인사발령"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"38세금"@kor</skos:altLabel>
+    <skos:altLabel>"분장"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"서울시립대학교"@kor</skos:altLabel>
+    <skos:prefLabel>업무분장</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000039"/>
+    <dc:language>kor</dc:language>
+    <dc:date>20170928</dc:date>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:identifier>T00000000000039</dc:identifier>
+    <skos:altLabel>"업무"@kor</skos:altLabel>
+    <skos:altLabel>"공원 업무분장"@kor</skos:altLabel>
+    <dc:title>업무분장</dc:title>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"공공개발센터 업무분장"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"공유도시"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000083">
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"수도검침원"@kor</skos:altLabel>
+    <dc:identifier>T00000000000083</dc:identifier>
+    <dc:date>20170928</dc:date>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <dc:title>수도검침</dc:title>
+    <skos:prefLabel>수도검침</skos:prefLabel>
+    <dc:language>kor</dc:language>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"시설관리공단"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000083"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000071">
+    <dc:identifier>T00000000000071</dc:identifier>
+    <dc:title>투자심사</dc:title>
+    <skos:altLabel>"4차 투자심사"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"2015"@kor</skos:altLabel>
+    <skos:altLabel>"투자심사 계획"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:language>kor</dc:language>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000071"/>
+    <skos:altLabel>"감염병"@kor</skos:altLabel>
+    <skos:altLabel>"투자"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:prefLabel>투자심사</skos:prefLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"투자심사결과"@kor</skos:altLabel>
+    <skos:altLabel>"노원구 수락산도시자연공원 조성"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000095">
+    <skos:altLabel>"강사"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000095"/>
+    <skos:altLabel>"정보공개 계획"@kor</skos:altLabel>
+    <skos:altLabel>"정보공개결정"@kor</skos:altLabel>
+    <skos:prefLabel>정보공개</skos:prefLabel>
+    <skos:altLabel>"공적"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <dc:identifier>T00000000000095</dc:identifier>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"정보공개심의회"@kor</skos:altLabel>
+    <skos:altLabel>"기록물관리"@kor</skos:altLabel>
+    <skos:altLabel>"행정정보공개"@kor</skos:altLabel>
+    <dc:title>정보공개</dc:title>
+    <dc:date>20170928</dc:date>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"보훈단체"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"바우처"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"경계조정"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000101">
+    <skos:altLabel>"메르스 계획"@kor</skos:altLabel>
+    <skos:altLabel>"용림교통"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"예비비"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000101"/>
+    <dc:title>메르스</dc:title>
+    <skos:altLabel>"메르스 일자리"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"지역경제"@kor</skos:altLabel>
+    <skos:altLabel>"국응생"@kor</skos:altLabel>
+    <skos:altLabel>"자가격리"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"MERS"@eng</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:prefLabel>메르스</skos:prefLabel>
+    <dc:identifier>T00000000000101</dc:identifier>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"재건축"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"메르스 대책"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000125">
+    <skos:altLabel>"신길역세권"@kor</skos:altLabel>
+    <skos:altLabel>"신대방시프트"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000125"/>
+    <dc:title>신대방역세권</dc:title>
+    <dc:identifier>T00000000000125</dc:identifier>
+    <dc:type>시소러스</dc:type>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"신원조회 신대방"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"신대방"@kor</skos:altLabel>
+    <skos:prefLabel>신대방역세권</skos:prefLabel>
+    <dcterms:created>20170926</dcterms:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000072">
+    <skos:altLabel>"간판"@kor</skos:altLabel>
+    <skos:altLabel>"개발"@kor</skos:altLabel>
+    <skos:prefLabel>용역</skos:prefLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"결과 제출"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"간병인 용역"@kor</skos:altLabel>
+    <skos:altLabel>"개포 용역"@kor</skos:altLabel>
+    <skos:altLabel>"용역계약"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:title>용역</dc:title>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000072"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:date>20170928</dc:date>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"용역 계획"@kor</skos:altLabel>
+    <skos:altLabel>"검증 용역"@kor</skos:altLabel>
+    <skos:altLabel>"학술용역"@kor</skos:altLabel>
+    <dc:identifier>T00000000000072</dc:identifier>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000096">
+    <dcterms:created>20170926</dcterms:created>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"도로"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"계획(안)"@kor</skos:altLabel>
+    <skos:altLabel>"주차장 계획"@kor</skos:altLabel>
+    <skos:altLabel>"고가도로"@kor</skos:altLabel>
+    <skos:altLabel>"거주자우선주차"@kor</skos:altLabel>
+    <skos:altLabel>"도로개설"@kor</skos:altLabel>
+    <dc:identifier>T00000000000096</dc:identifier>
+    <dc:type>시소러스</dc:type>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>주차장</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000096"/>
+    <skos:altLabel>"공용주차장"@kor</skos:altLabel>
+    <skos:altLabel>"견인 인상료"@kor</skos:altLabel>
+    <dc:title>주차장</dc:title>
+    <dc:date>20170928</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000032">
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000032"/>
+    <skos:altLabel>"인사운영"@kor</skos:altLabel>
+    <dc:title>인사</dc:title>
+    <skos:altLabel>"전입"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>인사</skos:prefLabel>
+    <skos:altLabel>"5급"@kor</skos:altLabel>
+    <skos:altLabel>"인사발령"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"가족담당관"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"발령"@kor</skos:altLabel>
+    <dc:identifier>T00000000000032</dc:identifier>
+    <skos:altLabel>"인사계획"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"인사혁신"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"전보"@kor</skos:altLabel>
+    <skos:altLabel>"승진"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000107">
+    <skos:altLabel>"강남구 댓글"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"강남"@kor</skos:altLabel>
+    <skos:altLabel>"강남구 마을버스"@kor</skos:altLabel>
+    <dc:title>강남구</dc:title>
+    <skos:altLabel>"강남구 태극기"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:prefLabel>강남구</skos:prefLabel>
+    <skos:altLabel>"7017"@kor</skos:altLabel>
+    <skos:altLabel>"강남구 승차대"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"강남구 장애인 편의시설"@kor</skos:altLabel>
+    <dc:identifier>T00000000000107</dc:identifier>
+    <skos:altLabel>"강남구 박민화"@kor</skos:altLabel>
+    <skos:altLabel>"강남구 인사"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"17050"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000089">
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"거마비"@kor</skos:altLabel>
+    <skos:altLabel>"공유재산 및 물품관리법"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"공유재산심의회"@kor</skos:altLabel>
+    <skos:altLabel>"공유재산 관리계획"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000089"/>
+    <skos:prefLabel>공유재산</skos:prefLabel>
+    <skos:altLabel>"실태조사"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"공유재산관리계획"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <dc:identifier>T00000000000089</dc:identifier>
+    <skos:altLabel>"공유재산 매뉴얼"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"공유재산 관리"@kor</skos:altLabel>
+    <dc:title>공유재산</dc:title>
+    <skos:altLabel>"공유재산 기부채납"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000106">
+    <skos:altLabel>"게스트하우스"@kor</skos:altLabel>
+    <skos:altLabel>"인센티브 결과"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"문화관광 인센티브"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"평가"@kor</skos:altLabel>
+    <skos:prefLabel>인센티브</skos:prefLabel>
+    <skos:altLabel>"공공자원 공유 활성화"@kor</skos:altLabel>
+    <skos:altLabel>"인센티브 보고회"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"관광 인센티브"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"자치구 인센티브"@kor</skos:altLabel>
+    <dc:title>인센티브</dc:title>
+    <dc:identifier>T00000000000106</dc:identifier>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000106"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"서울형"@kor</skos:altLabel>
+    <skos:altLabel>"결과보고서"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000053">
+    <skos:altLabel>"결산서"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"도서관 구축"@kor</skos:altLabel>
+    <skos:prefLabel>도서관</skos:prefLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"도서관 대출"@kor</skos:altLabel>
+    <dc:identifier>T00000000000053</dc:identifier>
+    <dcterms:created>20170926</dcterms:created>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"도서관 위탁"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000053"/>
+    <skos:altLabel>"도서관 발전"@kor</skos:altLabel>
+    <skos:altLabel>"다수공급자 2단계"@kor</skos:altLabel>
+    <dc:title>도서관</dc:title>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"도서관 건립"@kor</skos:altLabel>
+    <skos:altLabel>"도서관 예결산"@kor</skos:altLabel>
+    <skos:altLabel>"서울도서관"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"건축"@kor</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000123">
+    <skos:prefLabel>항동</skos:prefLabel>
+    <dc:language>kor</dc:language>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"공릉동"@kor</skos:altLabel>
+    <dc:identifier>T00000000000123</dc:identifier>
+    <dc:date>20170928</dc:date>
+    <dcterms:created>20170926</dcterms:created>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"천왕8단지"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000123"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:title>항동</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000135">
+    <skos:altLabel>"권상일"@kor</skos:altLabel>
+    <skos:altLabel>"아스팔트콘크리트품질시험결과"@kor</skos:altLabel>
+    <dc:identifier>T00000000000135</dc:identifier>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000135"/>
+    <skos:altLabel>"품질시험소"@kor</skos:altLabel>
+    <skos:altLabel>"wc-6"@eng</skos:altLabel>
+    <dc:language>eng</dc:language>
+    <dc:date>20170928</dc:date>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"psma"@eng</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"골재"@kor</skos:altLabel>
+    <dc:title>wc-3</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"아스팔트혼합물품질시험결과"@kor</skos:altLabel>
+    <skos:prefLabel>wc-3</skos:prefLabel>
+    <skos:altLabel>"wc-5"@eng</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000070">
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"뉴딜일자리 성과"@kor</skos:altLabel>
+    <skos:altLabel>"경로당코디네이터"@kor</skos:altLabel>
+    <skos:prefLabel>뉴딜일자리</skos:prefLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"뉴딜일자리 선발"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"뉴딜일자리 설문"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+    <skos:altLabel>"뉴딜일자리매니저"@kor</skos:altLabel>
+    <dc:identifier>T00000000000070</dc:identifier>
+    <dc:title>뉴딜일자리</dc:title>
+    <skos:altLabel>"평생학습코디네이터"@kor</skos:altLabel>
+    <dc:type>시소러스</dc:type>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000070"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000094">
+    <dc:identifier>T00000000000094</dc:identifier>
+    <skos:altLabel>"문화복합시설"@kor</skos:altLabel>
+    <skos:altLabel>"연남"@kor</skos:altLabel>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"성산천가도교"@kor</skos:altLabel>
+    <skos:prefLabel>가재울</skos:prefLabel>
+    <dc:type>시소러스</dc:type>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <skos:altLabel>"남가좌"@kor</skos:altLabel>
+    <skos:altLabel>"21차"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+    <skos:altLabel>"구로구"@kor</skos:altLabel>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000094"/>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"가재울3"@kor</skos:altLabel>
+    <dc:title>가재울</dc:title>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <skos:altLabel>"남가좌1동"@kor</skos:altLabel>
+    <skos:altLabel>"방음벽"@kor</skos:altLabel>
+    <dc:language>kor</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://opengov.seoul.go.kr/lod/resource/T00000000000030">
+    <dc:language>kor</dc:language>
+    <skos:exactMatch rdf:resource="http://opengov.seoul.go.kr/lod/resource/T00000000000030"/>
+    <dc:type>시소러스</dc:type>
+    <skos:altLabel>"대공원"@kor</skos:altLabel>
+    <skos:note>2015년, 2016년 내부검색어</skos:note>
+    <dc:title>서울대공원</dc:title>
+    <skos:altLabel>"서울대공원 총무과"@kor</skos:altLabel>
+    <skos:altLabel>"교육운영계획"@kor</skos:altLabel>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-nd/3.0"/>
+    <dc:date>20170928</dc:date>
+    <skos:altLabel>"국가기술자격"@kor</skos:altLabel>
+    <skos:altLabel>"일자리정책과"@kor</skos:altLabel>
+    <skos:altLabel>"강남구 교통정책과"@kor</skos:altLabel>
+    <dcterms:created>20170926</dcterms:created>
+    <skos:altLabel>"동물원"@kor</skos:altLabel>
+    <skos:altLabel>"동물"@kor</skos:altLabel>
+    <dc:identifier>T00000000000030</dc:identifier>
+    <skos:prefLabel>서울대공원</skos:prefLabel>
+    <skos:altLabel>"동물 반입"@kor</skos:altLabel>
+    <skos:altLabel>"서울대공원 공무직"@kor</skos:altLabel>
+    <dc:publisher>Seoul Metropolitan Government</dc:publisher>
+  </rdf:Description>
+</rdf:RDF>
